@@ -3815,11 +3815,6 @@
                 "channels": []
             },
             {
-                "time": "19:00",
-                "event": "NASCAR Cup Series: AdventHealth 400",
-                "channels": []
-            },
-            {
                 "time": "20:30",
                 "event": "IndyCar Sonsio Grand Prix Race",
                 "channels": []
@@ -3847,13 +3842,18 @@
                 "channels": []
             },
             {
+                "time": "02:00",
+                "event": "IBF Title Fights Prelims : Emanuel Navarrete vs Charly Suarez",
+                "channels": []
+            },
+            {
                 "time": "01:00",
                 "event": "BKFC 74 : Mike Richman vs Joshua Dyer",
                 "channels": []
             },
             {
                 "time": "02:00",
-                "event": "IBF Title Fights : Emanuel Navarrete vs Charly Suarez",
+                "event": "IBF Title Fights Main Card : Emanuel Navarrete vs Charly Suarez",
                 "channels": []
             }
         ],
@@ -3983,6 +3983,16 @@
             {
                 "time": "06:15",
                 "event": "AFL : Essendon Bombers vs Sydney Swans",
+                "channels": []
+            },
+            {
+                "time": "09:35",
+                "event": "AFL : Gold Coast Suns vs Western Bulldogs",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "AFL : Port Adelaide Power vs Adelaide Crows",
                 "channels": []
             }
         ],
