@@ -1,203 +1,68 @@
 {
     "Friday 09th May 2025 - Schedule Time UK GMT": {
-        "TV Shows</span>": [
+        "PPV Events</span>": [
             {
-                "time": "12:30",
-                "event": "Divorce Court Season 26, Episode 165",
-                "channels": []
-            },
-            {
-                "time": "15:00",
-                "event": "The Price Is Right Season 53, Episode 151",
-                "channels": []
-            },
-            {
-                "time": "15:00",
-                "event": "Mathis Court With Judge Mathis Season 2, Episode 37",
+                "time": "17:00",
+                "event": "Boxing Event : Tommy Fury vs Kenan Hanjalic",
                 "channels": []
             },
             {
                 "time": "18:00",
-                "event": "Wct6 Pan America Championship Episode 7",
+                "event": "True Grit Wrestling: Left Bank Lock-Up 2025",
                 "channels": []
             },
             {
-                "time": "18:00",
-                "event": "Beyond the Gates Season 1, Episode 49",
+                "time": "22:00",
+                "event": "Weekly Racing Stafford Speedway",
                 "channels": []
             },
             {
-                "time": "18:00",
-                "event": "Pictionary Season 3, Episode 145",
+                "time": "22:15",
+                "event": "2025 USAC Larry Rice Classic at Bloomington Speedway",
                 "channels": []
             },
             {
-                "time": "19:00",
-                "event": "The Kelly Clarkson Show Season 6, Episode 149",
+                "time": "22:30",
+                "event": "2025 Spring Nationals at Rockcastle Speedway",
                 "channels": []
             },
             {
-                "time": "19:00",
-                "event": "General Hospital Season 62, Episode 169",
+                "time": "22:30",
+                "event": "Attica Sprints Raceway Park",
                 "channels": []
             },
             {
-                "time": "21:00",
-                "event": "FanDuel Racing Live",
-                "channels": []
-            },
-            {
-                "time": "21:30",
-                "event": "100-Foot Wave Season 3, Episode 2",
-                "channels": []
-            },
-            {
-                "time": "21:30",
-                "event": "FanDuel Racing Live",
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars",
                 "channels": []
             },
             {
                 "time": "23:00",
-                "event": "Triton Poker Series New",
+                "event": "2025 Kubota High Limit Racing at Lakeside Speedway",
                 "channels": []
             },
             {
                 "time": "23:00",
-                "event": "Jeopardy! Season 41, Episode 175",
+                "event": "Samourai MMA 14",
                 "channels": []
             },
             {
-                "time": "00:00",
-                "event": "The Never Ever Mets Season 2, Episode 6",
+                "time": "23:15",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Farmer City Raceway",
                 "channels": []
             },
             {
-                "time": "00:00",
-                "event": "Gold Rush: White Water Season 9, Episode 3",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Love After Lockup Season 6, Episode 8",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "On Patrol: First Shift Season 3, Episode 77",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Pap\u00e1s por conveniencia Season 1, Episode 77",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Shark Tank Season 16, Episode 19",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Grosse Pointe Garden Society Season 1, Episode 12",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Hollywood Squares Season 1, Episode 19 \u2022 Finale",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "La casa de los famosos: All-stars",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "The Baby My Husband Lied About (2025)",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "90 Day Fianc\u00e9 Season 11",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Percy Jackson and the Olympians Season 1, Episode 4",
-                "channels": []
-            },
-            {
-                "time": "00:00",
-                "event": "Power Book III: Raising Kanan Season 4, Episode 9",
+                "time": "23:15",
+                "event": "Jacksonville Speedway Sprint Cars",
                 "channels": []
             },
             {
                 "time": "00:30",
-                "event": "Firing Line With Margaret Hoover Season 8, Episode 45 \u2022 Premiere",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "S.W.A.T. Season 8, Episode 20",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "Dateline NBC Season 33, Episode 28",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "Great Performances Season 52, Episode 13",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "My Lottery Dream Home Season 17",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "Beachfront Bargain Hunt: Renovation Season 10, Episode 6",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "Diners, Drive-Ins and Dives Season 51, Episode 16",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "The UnBelievable With Dan Aykroyd Season 2, Episode 17",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "United Fight League - UFL 6: Scottsdale vs Orange County",
-                "channels": []
-            },
-            {
-                "time": "01:00",
-                "event": "Gold Rush: Mine Rescue With Freddy & Juan Season 5, Episode 1 \u2022 Premiere",
-                "channels": []
-            },
-            {
-                "time": "02:00",
-                "event": "Secrets Declassified With David Duchovny Season 1, Episode 6",
-                "channels": []
-            },
-            {
-                "time": "03:00",
-                "event": "Resident Alien Season 1",
-                "channels": []
-            },
-            {
-                "time": "03:00",
-                "event": "Sherlock Season 4, Episode 2",
+                "event": "House of Glory: Waging War 2025",
                 "channels": []
             }
         ],
-        "TV Show</span>": [
+        "TV Shows</span>": [
             {
                 "time": "12:30",
                 "event": "Divorce Court Season 26, Episode 165",
