@@ -1,5 +1,92 @@
 {
     "Saturday 10th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "AMA Supercross Championship Salt Lake City",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "KING of the Table 14 : Vitaly Laletin vs Michael Todd",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "2025 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Modified Twin 20s at Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Spring Nationals at Lake Cumberland Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Fairbury Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:20",
+                "event": "2025 NASCAR Season Opener at Jennerstown Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Lubin vs Holmes: ProBox Fight Night",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 IMCA Weekly Racing at 141 Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Maple Leaf Pro Wrestling: Northern Rising 2025",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Crash Combat Championship V: Zak Bucia vs Jeremiah Curtright",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WWE Backlash PPV",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "American Sprint Car Series",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Armored MMA 2025: Medieval Cage Fighting Championship, Houston TX",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Hard Knocks Fight Night PPV",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1489,6 +1576,11 @@
                 "channels": []
             },
             {
+                "time": "17:00",
+                "event": "Peru - Primera Division : Ayacucho vs Sporting Cristal",
+                "channels": []
+            },
+            {
                 "time": "17:30",
                 "event": "Poland - I League : Ruch Chorzow vs LKS Lodz",
                 "channels": []
@@ -1541,11 +1633,6 @@
             {
                 "time": "18:00",
                 "event": "Italy - Serie C : Sestri Levante vs Lucchese",
-                "channels": []
-            },
-            {
-                "time": "18:00",
-                "event": "Peru - Primera Division : Ayacucho vs Sporting Cristal",
                 "channels": []
             },
             {
