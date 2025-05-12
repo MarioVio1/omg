@@ -264,8 +264,23 @@
                 "channels": []
             },
             {
+                "time": "14:10",
+                "event": "UAE Pro League : Dibba Al Hisn vs Al Wahda",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UAE Pro League : Bani Yas vs Khor",
+                "channels": []
+            },
+            {
                 "time": "15:00",
                 "event": "Africa U-20 Cup of Nations : Morocco U20 vs Sierra Leone U20",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Africa U-20 Cup of Nations : Ghana U20 vs Egypt U20",
                 "channels": []
             },
             {
@@ -276,6 +291,11 @@
             {
                 "time": "15:00",
                 "event": "Romania - Liga I : Petrolul 52 vs O\u0163elul",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Slovenia - Druga Liga : Aluminij vs Brinje Grosuplje",
                 "channels": []
             },
             {
@@ -394,8 +414,8 @@
                 "channels": []
             },
             {
-                "time": "17:50",
-                "event": "Africa - Africa Cup of Nations : 1st C vs 3rd A/",
+                "time": "18:00",
+                "event": "Netherlands - Eredivisie : Den Bosch vs Cambuur",
                 "channels": []
             },
             {
@@ -415,7 +435,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Africa U-20 Cup of Nations : TBD vs Congo DR U20",
+                "event": "Africa U-20 Cup of Nations : South Africa U20 vs Congo DR U20",
                 "channels": []
             },
             {
@@ -441,6 +461,11 @@
             {
                 "time": "19:00",
                 "event": "England - Championship : Sheffield United vs Bristol City",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Morocco - Botola Pro : Chabab Mohamm\u00e9dia vs Raja Casablanca",
                 "channels": []
             },
             {
@@ -1191,6 +1216,13 @@
             {
                 "time": "12:00",
                 "event": "Players Championship - 15 - Halle 39, Hildesheim",
+                "channels": []
+            }
+        ],
+        "Futsal</span>": [
+            {
+                "time": "18:00",
+                "event": "Croatia HMNL : Mnk Novo Vrijeme Makarska vs. Mnk Crnica",
                 "channels": []
             }
         ],
