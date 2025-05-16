@@ -164,36 +164,6 @@
                 "channels": []
             },
             {
-                "time": "02:00",
-                "event": "Accused: Did I Do It? Season 1, Episode 8",
-                "channels": []
-            },
-            {
-                "time": "02:00",
-                "event": "SurrealEstate Season 3, Episode 7",
-                "channels": []
-            },
-            {
-                "time": "02:00",
-                "event": "Found Season 2, Episode 22 \u2022 Finale",
-                "channels": []
-            },
-            {
-                "time": "02:00",
-                "event": "Grey's Anatomy Season 21, Episode 18 \u2022 Finale",
-                "channels": []
-            },
-            {
-                "time": "02:00",
-                "event": "House Hunters International Season 199, Episode 12",
-                "channels": []
-            },
-            {
-                "time": "02:15",
-                "event": "Watch What Happens Live With Andy Cohen Season 22, Episode 83",
-                "channels": []
-            },
-            {
                 "time": "01:00",
                 "event": "100-Foot Wave Season 3, Episode 3",
                 "channels": []
@@ -231,6 +201,36 @@
             {
                 "time": "01:00",
                 "event": "Genghis Khan: The Secret History of the Mongols Season 1, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Accused: Did I Do It? Season 1, Episode 8",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "SurrealEstate Season 3, Episode 7",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Found Season 2, Episode 22 \u2022 Finale",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Grey's Anatomy Season 21, Episode 18 \u2022 Finale",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "House Hunters International Season 199, Episode 12",
+                "channels": []
+            },
+            {
+                "time": "02:15",
+                "event": "Watch What Happens Live With Andy Cohen Season 22, Episode 83",
                 "channels": []
             }
         ],
