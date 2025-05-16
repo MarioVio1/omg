@@ -1,5 +1,72 @@
 {
     "Friday 16th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "19:15",
+                "event": "2025 USAC Road Racing at Circuit of The Americas",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota High Limit Racing at Ransomville Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Raceway Park Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Nascar Opening Autodrome Granby",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "IRA Sprints Dodge Co | 410 Outlaw Winged Sprint Series",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprints",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 USAC Huncovsky Classic at Belleville Short Track",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Eagle Raceway",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "2025 MARS Late Models at Quincy Raceway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "2025 CARS Tour at North Wilkesboro Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "2025 NARC 410 Sprints at Ocean Speedway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
@@ -404,7 +471,7 @@
                 "channels": []
             },
             {
-                "time": "17:00",
+                "time": "18:00",
                 "event": "Romania - Liga I : Dinamo Bucure\u015fti vs Universitatea Cluj",
                 "channels": []
             },
