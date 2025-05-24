@@ -215,11 +215,6 @@
             },
             {
                 "time": "00:00",
-                "event": "Saturday Night's Main Event Episode 2 \u2022 Live",
-                "channels": []
-            },
-            {
-                "time": "00:00",
                 "event": "The Chi Black Friday Season 7, Episode 1",
                 "channels": []
             },
@@ -1232,11 +1227,6 @@
             },
             {
                 "time": "21:00",
-                "event": "NWSL : Houston Dash vs Bay FC",
-                "channels": []
-            },
-            {
-                "time": "21:00",
                 "event": "Canadian Premier League : Pacific vs Forge",
                 "channels": []
             },
@@ -1368,6 +1358,11 @@
             {
                 "time": "23:30",
                 "event": "NWSL : Chicago Red Stars vs Kansas City Current",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NWSL : Houston Dash vs Bay FC",
                 "channels": []
             },
             {
@@ -1647,6 +1642,13 @@
             {
                 "time": "21:00",
                 "event": "Ferrari Challenge",
+                "channels": []
+            }
+        ],
+        "WWE</span>": [
+            {
+                "time": "00:00",
+                "event": "WWE Saturday Night's Main Event \u2022 Live",
                 "channels": []
             }
         ],
