@@ -432,7 +432,7 @@
             },
             {
                 "time": "16:00",
-                "event": "- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC",
+                "event": "Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC",
                 "channels": []
             },
             {
@@ -2252,6 +2252,11 @@
                 "channels": []
             },
             {
+                "time": "10:00",
+                "event": "Ukraine Premier League : Chornomorets vs Oleksandria",
+                "channels": []
+            },
+            {
                 "time": "10:45",
                 "event": "Poland - II Liga : Pogo\u0144 Grod. Mazowiecki vs Kalisz",
                 "channels": []
@@ -2289,6 +2294,11 @@
             {
                 "time": "12:30",
                 "event": "Austria - 2.League : Kapfenberger vs SW Bregenz",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Ukraine Premier League : Rukh Vynnyky vs Shakhtar Donetsk",
                 "channels": []
             },
             {
@@ -2509,6 +2519,11 @@
             {
                 "time": "15:00",
                 "event": "Romania - Liga I : Universitatea Cluj vs Rapid Bucure\u015fti",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Ukraine Premier League : Dynamo Kyiv vs Kolos Kovalivka",
                 "channels": []
             },
             {
