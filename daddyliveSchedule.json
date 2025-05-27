@@ -880,6 +880,21 @@
                 "time": "19:10",
                 "event": "Challenger - Little Rock (USA) : Naoki Nakagawa vs Alexander Kotzen",
                 "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (F) - Lovedale (AUS) : Piper Freeman vs Amelia Zylberman",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (F) - Lovedale (AUS) : Sasha Situe vs Cara Korhonen",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "UTR (F) - Lovedale (AUS) : Isabella Crossman vs Nina Krecklenberg",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -1073,6 +1088,23 @@
             {
                 "time": "00:30",
                 "event": "NBA : Oklahoma City Thunder vs Minnesota Timberwolves",
+                "channels": []
+            }
+        ],
+        "Badminton</span>": [
+            {
+                "time": "02:00",
+                "event": "Singapore Open - Double Mixt : Hong Wei Ye/Nicole Gonzales Chan vs Kuang Heng Liu/Yu Chieh Jheng",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Singapore Open (F) : Supanida Katethong vs Malvika Bansod",
+                "channels": []
+            },
+            {
+                "time": "02:20",
+                "event": "Singapore Open : Yushi Tanaka vs Toma Junior Popov",
                 "channels": []
             }
         ],
@@ -1402,6 +1434,51 @@
         ],
         "Soccer</span>": [
             {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Daegu vs Jeonbuk",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Daejeon Citizen vs Pohang Steelers",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Suwon FC vs Jeju SK",
+                "channels": []
+            },
+            {
+                "time": "11:45",
+                "event": "Singapore - Cup - Playoff : Lion City Sailors vs Brunei DPMM",
+                "channels": []
+            },
+            {
+                "time": "11:45",
+                "event": "Singapore - Cup - Playoff : Tampines Rovers vs BG Pathum United",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Poland - II League : Rekord Bielsko-Biala vs Swit Szczecin",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Estonia - Meistriliiga : Kuressaare vs Flora Tallinn",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Estonia - Meistriliiga : Tartu Tammeka vs Tallinna Kalev",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Estonia - Meistriliiga : Narva Trans vs Harju Laagri",
+                "channels": []
+            },
+            {
                 "time": "17:00",
                 "event": "Sweden - Superettan : Sandviken vs GIF Sundsvall",
                 "channels": []
@@ -1498,6 +1575,186 @@
             {
                 "time": "09:00",
                 "event": "Roland-Garros Tennis Men's and Women's Singles | Day 3",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Chisinau (MDA) : Lorenzo Giustino vs Alastair Gray",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Chisinau (MDA) : Ricardas Berankis vs Radu Albot",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "Challenger - Chisinau (MDA) : Toby Samuel vs Lilian Marmousez",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Chisinau (MDA) : Clement Chidekh vs Lukas Pokorny",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Chisinau (MDA) : Ilia Simakin vs Charlie Robertson",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Chisinau (MDA) : Philip Henning vs Daniil Glinka",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Chisinau (MDA) : Robert Strombachs vs Jay Clarke",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Chisinau (MDA) : Charles Broom vs Kaichi Uchida",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Chisinau (MDA) : Denis Yevseyev vs Harry Wendelken",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "Challenger - Chisinau (MDA) : Stuart Parker vs Ilya Snitari",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Vicenza (ITA) : Duje Ajdukovic vs Oriol Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Vicenza (ITA) : Luka Pavlovic vs Luca Castagnola",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Vicenza (ITA) : Viktor Durasovic vs Adolfo Daniel Vallejo",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Chisinau (MDA) : Aleksandre Bakshi vs Olaf Pieczkowski",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Chisinau (MDA) : Giles Hussey vs Robin Bertrand",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "Challenger - Chisinau (MDA) : Masamichi Imamura vs Kasidit Samrej",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Vicenza (ITA) : Andres Santamarta Roig vs Martin Klizan",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Vicenza (ITA) : Chris Rodesch vs Mathys Erhard",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Vicenza (ITA) : Marco Cecchinato vs August Holmgren",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Vicenza (ITA) : Facundo Mena vs Jozef Kovalik",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Vicenza (ITA) : Joel Josef Schwarzler vs Gonzalo Bueno",
+                "channels": []
+            },
+            {
+                "time": "11:40",
+                "event": "Challenger - Chisinau (MDA) : Petr Bar Biryukov vs Saba Purtseladze",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Vicenza (ITA) : Filip Cristian Jianu vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Chisinau (MDA) - Double : S.Kielan/F.Pieczonka vs D.Golubev/D.Pichler",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "Challenger - Chisinau (MDA) : Sasikumar Mukund vs Cem Ilkel",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Chisinau (MDA) - Double : C.Rodriguez/A.Urrea vs A.Bakshi/R.Strombachs",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Vicenza (ITA) - Double : I.Buse/B.Pujol Navarro vs P.N.Salminen/S.Walkow",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Vicenza (ITA) - Double : M.Hermans/G.Ricca vs J.Barnat/F.Duda",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Chisinau (MDA) - Double : S.K.R.Ganta/P.Somani vs B.Jones/D.Poljak",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Vicenza (ITA) : Yu Hsiou Hsu vs Federico Arnaboldi",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Chisinau (MDA) - Double : M.Imamura/N.Tajima vs L.Pokorny/I.Simakin",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Chisinau (MDA) - Double : P.Bar Biryukov/S.Purtseladze vs D.Linkuns-Morozovs/I.Snitari",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Chisinau (MDA) - Double : P.Henning/C.J.Lock vs E.Neos/S.Pankin",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Challenger - Vicenza (ITA) : Chun Hsin Tseng vs Murkel Dellien",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Challenger - Little Rock (USA) : Rafael Jodar vs Liam Draxl",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "Challenger - Little Rock (USA) : Naoki Nakagawa vs Alexander Kotzen",
                 "channels": []
             }
         ],
@@ -1616,6 +1873,11 @@
                 "channels": []
             },
             {
+                "time": "15:30",
+                "event": "Lithuania - LKL - Playoff : BC Siauliai vs Rytas Vilnius",
+                "channels": []
+            },
+            {
                 "time": "15:50",
                 "event": "Lithuanian League : Juventus vs Lietkabelis",
                 "channels": []
@@ -1646,6 +1908,11 @@
                 "channels": []
             },
             {
+                "time": "17:30",
+                "event": "Swiss - LNA - Playoff : Les Lions de Geneve vs Fribourg Olympic",
+                "channels": []
+            },
+            {
                 "time": "18:00",
                 "event": "Germany BBL : s.Oliver W\u00fcrzburg vs L\u00f6wen Braunschweig",
                 "channels": []
@@ -1657,7 +1924,22 @@
             },
             {
                 "time": "18:30",
+                "event": "Italy - Serie B - Playoff : Talos Ruvo di Puglia vs ASD Pielle Livorno",
+                "channels": []
+            },
+            {
+                "time": "18:30",
                 "event": "LNB : Paris vs Dijon",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Italy - Serie B - Playoff : Treviglio Brianza vs Herons",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Italy - Serie A - Playoff : Virtus Bologna vs Venezia",
                 "channels": []
             },
             {
@@ -1678,6 +1960,11 @@
             {
                 "time": "00:00",
                 "event": "WNBA : Seattle Storm vs Minnesota Lynx",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "WNBA : Phoenix Mercury (F) vs Chicago Sky (F)",
                 "channels": []
             },
             {
