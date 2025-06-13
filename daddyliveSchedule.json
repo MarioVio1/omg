@@ -1677,6 +1677,94 @@
                 "channels": []
             }
         ],
+        "ATP - HERTOGENBOSCH</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - HERTOGENBOSCH : Borges N. vs Humbert U.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - HERTOGENBOSCH : Bergs Z. vs Lajal M.",
+                "channels": []
+            }
+        ],
+        "ATP - STUTTGART</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - STUTTGART : Engel J. vs Auger-Aliassime F.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - STUTTGART : Fucsovics M. vs Fritz T.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - STUTTGART : Zverev A. vs Nakashima B.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - STUTTGART : Shelton B. vs Lehecka J.",
+                "channels": []
+            }
+        ],
+        "WTA - HERTOGENBOSCH</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - HERTOGENBOSCH : Kudermetova V. vs Alexandrova E.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - HERTOGENBOSCH : Yuan Y. vs Mertens E.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - HERTOGENBOSCH : Cocciaretto E. vs Lamens S.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - HERTOGENBOSCH : Ruse G. vs Andreescu B.",
+                "channels": []
+            }
+        ],
+        "WTA - LONDON</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - LONDON : Shnaider D. vs Keys M.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - LONDON : Maria T. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - LONDON : Zheng Q. vs Raducanu E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - LONDON : Navarro E. vs Anisimova A.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
