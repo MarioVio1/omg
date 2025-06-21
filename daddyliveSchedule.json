@@ -1,5 +1,97 @@
 {
     "Saturday 21st June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "East vs West Armwrestling 18",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ICW: Pour Wan Oot 2025, Night 1",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Atomic Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Top Level Pro 20 Grappling Series",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "2025 USAC Open Wheel Madness at Port Royal Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Thunder on the Thruway at Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 IRA Sprints/Road America Challenge at Plymouth Dirt Track",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Supermodified 50 at Oswego Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Dirt Kings Tour 141",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 NASCAR Weekly Racing at Hickory Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Batesville",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "BKB 42: Music City Brawl",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Pit Fighting Championship: Submission Series 1",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "MMA Mexico 5",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1065,7 +1157,7 @@
         ],
         "Tennis</span>": [
             {
-                "time": "10:00",
+                "time": "14:19",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 6",
                 "channels": []
             },
