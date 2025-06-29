@@ -1,5 +1,57 @@
 {
     "Sunday 29th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:30",
+                "event": "500 Sprint Car Tour Winchester",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "2025 NASCAR Whelen Modified Tour at White Mountain Motorsports Park",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Superbikes Motoamerica Ridge Motorsports",
+                "channels": []
+            },
+            {
+                "time": "20:45",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Millstream Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Super DIRTcar Series Cornwall",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Tuff-N-Uff 145",
+                "channels": []
+            },
+            {
+                "time": "17:38",
+                "event": "04:0 PA Speedweek Lincoln",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Independence Day Celebration at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models Clarksville",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Late Models Nodak",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
