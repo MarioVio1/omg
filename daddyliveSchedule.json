@@ -1,0 +1,995 @@
+{
+    "Tuesday 01st July 2025 - Schedule Time UK GMT": {
+        "TV Shows</span>": [
+            {
+                "time": "19:00",
+                "event": "General Hospital Season 62, Episode 205",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Your Friendly Neighborhood Spider-Man Season 1, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "X-Men '97 Fire Made Flesh Season 1, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Drury's Thirteen Season 12, Episode 1",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Beat the Bridge New",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Jeopardy! Season 41, Episode 212",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Miss Universe Latina, el reality New",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Caught in the Act: Unfaithful Season 3, Finale",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "The Secret of Skinwalker Ranch Season 6, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "The Valley Season 2, Episode 12",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Chopped Season 62, Episode 12",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "A.mar Season 1, Episode 29",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "America's Got Talent Auditions 1 Season 20, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Driven With Pat & Nicole Season 21, Episode 1",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Zatima Unrequited Love Season 3, Episode 18",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "United Gangs of America New",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Rehab Addict Season 9, Episode 2",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Cutthroat Kitchen: Knives Out Season 1, Episode 8",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Next Gen NYC Season 1, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Neighborhood Wars Season 8, Episode 14",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Life Below Zero Season 23",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "My Big Fat Fabulous Life Season 13, Episode 1",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "See No Evil The Gold Sedan Season 14, Episode 2",
+                "channels": []
+            },
+            {
+                "time": "01:30",
+                "event": "All the Queen's Men Season 3, Episode 14",
+                "channels": []
+            },
+            {
+                "time": "01:30",
+                "event": "Beyond Skinwalker Ranch Season 2",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Destination X Season 1, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Down Home Fab Season 3, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Squatters I'm Not Leaving Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Fatal Destination Season 1, Episode 5",
+                "channels": []
+            }
+        ],
+        "Soccer</span>": [
+            {
+                "time": "08:00",
+                "event": "China - League 2 - South : Guangdong Mingtu vs Wuhan Three Towns B",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "China - League 2 - South : Kunming City Star vs Chengdu Rongcheng B",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Interclub friendly : Utrecht vs FCSB",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "China - League 2 - South : Quanzhou Yassin vs Shenzhen 2028 FC",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "China - League 2 - North : Hubei Istar vs Hangzhou Linping Wuyue",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 2 - South : Guangxi Lanhang vs Guangxi Hengchen",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "China - League 2 - North : Nantong Haimen Codion vs Shanghai Port B",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Finland - Veikkausliiga : KuPS vs IF Gnistan",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Interclub friendly : Ludogorets Razgrad vs Hradec Kralove",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Latvia - Virsliga : Super Nova vs Auda",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "World - Club Friendly : Radomlje vs Dinamo Zagreb",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "World - Club Friendly : Grazer AK vs Vojvodina",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Georgia - Supercupa : Iberia 1999 vs Torpedo Kutaisi",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Friendly International Women : Serbia W vs Russia W",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Latvia - Virsliga : Riga FC vs FK Jelgava",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Interclub friendly : Twente vs Motherwell",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "FIFA Club World Cup : Real Madrid vs Juventus",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Canadian Premier League : HFX Wanderers vs Valour",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Chile - Copa Chile : Audax Italiano vs Deportes Temuco",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Chile - Copa Chile : Deportes Limache vs Cobreloa",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "FIFA Club World Cup : Borussia Dortmund vs Monterrey",
+                "channels": []
+            }
+        ],
+        "Cricket</span>": [
+            {
+                "time": "17:30",
+                "event": "Womens T20 : England W vs India W",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Major League Cricket : San Francisco Unicorns vs Seattle Orcas",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Cazaux A. vs Walton A.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : De Minaur A. vs Carballes Baena R.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Faria J. vs Sonego L.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : McCabe J. vs Marozsan F.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Michelsen A. vs Kecmanovic M.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Monday J. vs Paul T.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Tseng C. H. vs Vukic A.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Arnaldi M. vs Van De Zandschulp B.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Basilashvili N. vs Musetti L.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : De Jong J. vs Eubanks C.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Martinez P. vs Loffhagen G.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Munar J. vs Bublik A.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Navone M. vs Shapovalov D.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Halys Q. vs Holmgren A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Ofner S. vs Medjedovic H.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - WIMBLEDON : Sinner J. vs Nardi L.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - WIMBLEDON : Evans D. vs Clarke J.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Dzumhur D. vs Machac T.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Cobolli F. vs Zhukayev B.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Collignon R. vs Cilic M.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Comesana F. vs Moutet C.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Kovacevic A. vs Fucsovics M.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - WIMBLEDON : Fritz T. vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - WIMBLEDON : Rinderknech A. vs Zverev A.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - WIMBLEDON : Giron M. vs Ugo Carabelli C.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - WIMBLEDON : Monfils G. vs Humbert U.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Dimitrov G. vs Nishioka Y.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Etcheverry T. M. vs Pinnington Jones J.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Gaston H. vs Mensik J.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Hijikata R. vs Goffin D.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Nakashima B. vs Bu Y.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Shelton B. vs Bolt A.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - WIMBLEDON : Muller A. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - WIMBLEDON : Shevchenko A. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - WIMBLEDON : Draper J. vs Baez S.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Highlight Show",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Begu l. vs Juvan K.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Cocciaretto E. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Erjavec V. vs Kostyuk M.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Hon P. vs Alexandrova E.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Kasatkina D. vs Arango E.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Lamens S. vs Jovic 1.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Tauson C. vs Watson H.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Volynets K. vs Maria T.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - WIMBLEDON : Muchova K. vs Wang Xin.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - WIMBLEDON : Sonmez Z. vs Cristian J.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Joint M. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Kalinskaya A. vs Stojanovic N.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Siniakova K. vs Zheng Q.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Teichmann J. vs Bronzetti L.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WIMBLEDON : Krejcikova B. vs Eala A.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WIMBLEDON : Baptiste H. vs Cirstea S.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WIMBLEDON : Osorio C. vs Collins D.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Andreeva M. vs Sherif M.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Dolehide C. vs Rus A.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : McNally C. vs Burrage J.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Starodubtseva Y. vs Jones F.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Swiatek I. vs Kudermetova P.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - WIMBLEDON : Kudermetova V. vs Zhu L.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - WIMBLEDON : Sakkari M. vs Blinkova A.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - WIMBLEDON : Potapova A. vs Frech M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - WIMBLEDON : Kvitova P. vs Navarro E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - WIMBLEDON : Azarenka V. vs Zakharova A.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - WIMBLEDON : Bouzas Maneiro J. vs Seidel E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - WIMBLEDON : Linette M. vs Jacquemot E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - WIMBLEDON : Parks A. vs Bencic B.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - WIMBLEDON : Kenin S. vs Townsend T.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - WIMBLEDON : Avanesyan E. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - WIMBLEDON : Yastremska D. vs Gauff C.",
+                "channels": []
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "18:00",
+                "event": "2025 Wimbledon Championships Early Round Coverage, Day 2",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Amy Zhu vs Yu Chin Tsai",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Jerome Estephan vs Hiiro Sakamoto",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Ju-Yun Jeng vs Kseniya Yersh",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Semen Batin vs Chen Hui Ho",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) : Dimitar Kuzmanov vs Edas Butvilas",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) : Kilian Feldbausch vs Radu Mihai Papoe",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Harold Mayot vs Clement Tabur",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Lorenzo Giustino vs Tristan Lamasine",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Marat Sharipov vs Javier Barranco Cosano",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Gabi Adrian Boitan vs Andrea Guerrieri",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Maxim Mrva vs Oriol Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Zsombor Piros vs Denis Yevseyev",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Branko Djuric vs Corentin Denolly",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Cosme Rolland De Ravel vs Joao Lucas Reis Silva",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Niels Visker vs Norbert Gombos",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Kimmer Coppejans vs Alexander Donski",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Manas Manoj Dhamne vs Christoph Negritu",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Pol Martin Tiffon vs Filip Cristian Jianu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Andrea Pellegrino vs Aristotelis Thanos",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Federico Cina vs Mili Poljicak",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Wimbledon : Katerina Siniakova vs Qinwen Zheng",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Stefano Travaglia vs Geoffrey Blancaneaux",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Kalin Ivanovski vs Calvin Hemery",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Nikolas Sanchez Izquierdo vs Daniel Michalski",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Tyler Zink vs Jelle Sels",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Brasov (ROM) : Radu Albot vs Murkel Dellien",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Luca Parenti vs Jerome Kym",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Max Houkes vs Federico Agustin Gomez",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Stefanos Sakellaridis vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Brasov (ROM) - Double : S.Purtseladze/D.Yevseyev vs K.Coppejans/O.Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Troyes (FRA) : Marco Trungelliti vs Florent Bax",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Troyes (FRA) : Mikael Ymer vs Mika Brunold",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Brasov (ROM) : Felipe Alves vs Francesco Maestrelli",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Troyes (FRA) - Double : A.de La Bassetiere/C.de La Bassetiere vs S.Duncan/T.Hands",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Troyes (FRA) - Double : A.Reymond/A.Virgili vs D.Poljak/T.Ruehl",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Marco Cecchinato vs Thiago Moura Monteiro",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Moez Echargui vs Tristan Boyer",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Modena (ITA) : Thiago Seyboth Wild vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Troyes (FRA) : Matteo Martineau vs Benoit Paire",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Challenger - Modena (ITA) : Carlos Taberner vs Michael Geerts",
+                "channels": []
+            }
+        ],
+        "WWE</span>": [
+            {
+                "time": "00:00",
+                "event": "WWE NXT",
+                "channels": []
+            }
+        ],
+        "Snooker</span>": [
+            {
+                "time": "11:00",
+                "event": "Championship League Snooker:D2 Season 1 : Shaun Murphy vs Alfred Burden",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Championship League Snooker:D2 Season 2 : Matthew Selt vs Fergal Quinn",
+                "channels": []
+            }
+        ],
+        "Baseball</span>": [
+            {
+                "time": "19:07",
+                "event": "MLB : Toronto Blue Jays vs New York Yankees",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "MLB : Philadelphia Phillies vs San Diego Padres",
+                "channels": []
+            },
+            {
+                "time": "22:40",
+                "event": "MLB : Miami Marlins vs Minnesota Twins",
+                "channels": []
+            },
+            {
+                "time": "22:40",
+                "event": "MLB : Pittsburgh Pirates vs St. Louis Cardinals",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "MLB : Washington Nationals vs Detroit Tigers",
+                "channels": []
+            },
+            {
+                "time": "23:05",
+                "event": "MLB : Tampa Bay Rays vs Oakland Athletics",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "MLB : Boston Red Sox vs Cincinnati Reds",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "MLB : New York Mets vs Milwaukee Brewers",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "MLB : Atlanta Braves vs Los Angeles Angels",
+                "channels": []
+            },
+            {
+                "time": "00:05",
+                "event": "MLB : Texas Rangers vs Baltimore Orioles",
+                "channels": []
+            },
+            {
+                "time": "00:05",
+                "event": "MLB : Chicago Cubs vs Cleveland Guardians",
+                "channels": []
+            },
+            {
+                "time": "00:40",
+                "event": "MLB : Colorado Rockies vs Houston Astros",
+                "channels": []
+            },
+            {
+                "time": "01:40",
+                "event": "MLB : Seattle Mariners vs Kansas City Royals",
+                "channels": []
+            },
+            {
+                "time": "01:40",
+                "event": "MLB : Arizona Diamondbacks vs San Francisco Giants",
+                "channels": []
+            },
+            {
+                "time": "02:10",
+                "event": "MLB : Los Angeles Dodgers vs Chicago White Sox",
+                "channels": []
+            }
+        ],
+        "Basketball</span>": [
+            {
+                "time": "06:00",
+                "event": "NBL : Canterbury Rams at Wellington Saints",
+                "channels": []
+            },
+            {
+                "time": "15:40",
+                "event": "Women's AmeriCup : Dominican Republic W vs Brazil W",
+                "channels": []
+            },
+            {
+                "time": "17:55",
+                "event": "FIBA U19 World Championship: Israel vs Dominican Republic",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "Women's AmeriCup : El Salvador W vs Argentina W",
+                "channels": []
+            },
+            {
+                "time": "21:40",
+                "event": "Women's AmeriCup : Mexico W vs Puerto Rico W",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "CEBL Basketball : Scarborough Shooting Stars vs Vancouver Bandits",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "WNBA : Indiana Fever W vs Minnesota Lynx W",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "Women's AmeriCup : Chile W vs Colombia W",
+                "channels": []
+            }
+        ],
+        "Handball</span>": [
+            {
+                "time": "14:00",
+                "event": "U-21 Men's Handball World Cup: Uruguay vs Brazil",
+                "channels": []
+            }
+        ],
+        "Horse Racing</span>": [
+            {
+                "time": "12:00",
+                "event": "Live racing from around the UK",
+                "channels": []
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "15:00",
+                "event": "TSN Free Agent Frenzy",
+                "channels": []
+            }
+        ]
+    }
+}
