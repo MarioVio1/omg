@@ -276,6 +276,11 @@
                 "channels": []
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Academia Puerto Cabello vs Metropolitanos",
+                "channels": []
+            },
+            {
                 "time": "22:00",
                 "event": "Brazil - Serie B : Coritiba vs Volta Redonda",
                 "channels": []
@@ -286,8 +291,18 @@
                 "channels": []
             },
             {
+                "time": "23:30",
+                "event": "USL League One : FC Naples vs Tampa Bay Rowdies",
+                "channels": []
+            },
+            {
                 "time": "00:00",
                 "event": "USL Championship Soccer : New Mexico United vs Pittsburgh Riverhounds SC",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Venezuela - Primera Division : Deportivo La Guaira vs Monagas",
                 "channels": []
             },
             {
@@ -345,7 +360,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "14:01",
+                "time": "17:49",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": []
             },
