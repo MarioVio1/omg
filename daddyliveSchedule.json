@@ -1,5 +1,67 @@
 {
     "Saturday 05th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:30",
+                "event": "AMA Supercross Championship Buchanan",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "2025 American Flat Track at DuQuoin Mile",
+                "channels": []
+            },
+            {
+                "time": "19:45",
+                "event": "2025 Mustang Cup at Ozarks International Raceway",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Muskingum County Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Supermodified Twin 40's at Oswego Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Modles Tri State",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Late Models",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Maple Leaf Pro Wrestling: Northern Rising & Resurrection Pack",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: The Top Play 2025",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Bare Knuckle Boxing (BKB 43): Bolton Brawl",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
