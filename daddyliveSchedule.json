@@ -1,5 +1,17 @@
 {
     "Sunday 06th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "23:15",
+                "event": "2025 Prelude To The Nationals at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "DIRTcar Summer Nationals Late Models Shadyhill",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "14:00",
@@ -448,7 +460,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "09:46",
+                "time": "19:35",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": []
             },
@@ -1296,6 +1308,415 @@
             {
                 "time": "14:00",
                 "event": "Grand Prix Diving 2025-Meeting Bolzano - Finals 3rd day",
+                "channels": []
+            }
+        ]
+    },
+    "Monday 07th July 2025 - Schedule Time UK GMT": {
+        "TV Shows</span>": [
+            {
+                "time": "18:00",
+                "event": "Beyond the Gates Season 1, Episode 84",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "Red Bull Soapbox Race Season 1, Episode 9",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "The Gilded Age Season 3, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Addicted to the Outdoors Season 18, Episode 2",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "World Tennis With Harry Cicma New",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Jeopardy! Season 41, Episode 216",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Miss Universe Latina, el reality New",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Basketball Wives Season 12, Episode 9",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Win or Lose Coach's Kid Season 1, Episode 1",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Mysteries of the Unknown Secrets of Nostradamus",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Jim Thorpe: Lit by Lightning New",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Below Deck YACHT-CHELLA Season 12, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Beachfront Bargain Hunt: Renovation Season 8, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Bachelor in Paradise Season 10, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "LEGO Masters Masquerade Season 5, Episode 7",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "American Ninja Warrior Qualifiers 6 Season 17, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "90 Day: Hunt for Love Season 1, Episode 7",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Christmas at Sea Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Paul American Season 1, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "The McBee Dynasty: Real American Cowboys Season 2, Episode 2",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Maine Cabin Masters Season 11, Episode 16",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "The Quiz With Balls Season 2, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Super Mega Cakes Season 1, Episode 4",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "The Librarians: The Next Chapter Season 1, Episode 8",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Dr. Pimple Popper: Breaking Out Season 1, Episode 12",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Live PD: Police Patrol Season 8, Episode 28",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Investigation Shark Attack Season 1, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Virgins Stealing Home Season 1, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Mean Girl Murders Season 3, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Fatal Attraction Season 15, Episode 58",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Life of Fire Season 2, Episode 10",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Survival Mode Hurricane Ian Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Super Shark Highway Season 1, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Poker Night in America New",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Amanecer Traiciones Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "Jake Makes It Easy Season 2, Episode 2",
+                "channels": []
+            }
+        ],
+        "Soccer</span>": [
+            {
+                "time": "11:00",
+                "event": "Asia - EAFF E-1 Football Championship : Korea Republic vs China",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Lithuanian League : Penevezys vs Suduva",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Club Friendly : Radnicki 1923 vs IMT Novi Belgrade",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA Women's Euro : Spain vs Belgium",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Africa Women Cup of Nations : South Africa vs Ghana",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Sweden - Allsvenskan : Norrk\u00f6ping vs Brommapojkarna",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UEFA Women's Euro : Portugal vs Italy",
+                "channels": []
+            },
+            {
+                "time": "19:15",
+                "event": "Iceland - Besta deild karla : FH vs Stjarnan",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Africa Women Cup of Nations : Mali vs Tanzania",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Northern Super League : Halifax Tides vs Calgary Wild",
+                "channels": []
+            }
+        ],
+        "Cricket</span>": [
+            {
+                "time": "10:00",
+                "event": "2nd Test Day 5 : England vs India",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "2nd Test | Day 5 : West Indies vs Australia",
+                "channels": []
+            }
+        ],
+        "Motorsport</span>": [
+            {
+                "time": "18:30",
+                "event": "British Premiership Oxford Spires - Ipswich Witches",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "NASCAR Cup Series Challenge Round 2 - Grant Park 165",
+                "channels": []
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "08:00",
+                "event": "2025 Wimbledon Championships Early Round Coverage, Day 8",
+                "channels": []
+            }
+        ],
+        "WWE</span>": [
+            {
+                "time": "00:00",
+                "event": "WWE Monday Night RAW",
+                "channels": []
+            }
+        ],
+        "Snooker</span>": [
+            {
+                "time": "11:00",
+                "event": "Championship League Snooker : Ali Carter vs Jack Bradford",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Championship League Snooker : Gary Wilson vs Bai Yulu",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Ultimate Pool Pairs Cup | Mixed | Group Stage",
+                "channels": []
+            }
+        ],
+        "Baseball</span>": [
+            {
+                "time": "23:00",
+                "event": "Athletes Unlimited Softball League : Bandits vs Volts",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Athletes Unlimited Softball League : Blaze vs Talons",
+                "channels": []
+            },
+            {
+                "time": "22:40",
+                "event": "MLB : Detroit Tigers vs Tampa Bay Rays",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "MLB : Boston Red Sox vs Colorado Rockies",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "MLB : Cincinnati Reds vs Miami Marlins",
+                "channels": []
+            },
+            {
+                "time": "23:40",
+                "event": "MLB : Milwaukee Brewers vs Los Angeles Dodgers",
+                "channels": []
+            },
+            {
+                "time": "23:40",
+                "event": "MLB : Kansas City Royals vs Pittsburgh Pirates",
+                "channels": []
+            },
+            {
+                "time": "23:40",
+                "event": "MLB : Chicago White Sox vs Toronto Blue Jays",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "MLB : Houston Astros vs Cleveland Guardians",
+                "channels": []
+            },
+            {
+                "time": "01:38",
+                "event": "MLB : Los Angeles Angels vs Texas Rangers",
+                "channels": []
+            },
+            {
+                "time": "01:40",
+                "event": "MLB : San Diego Padres vs Arizona Diamondbacks",
+                "channels": []
+            },
+            {
+                "time": "01:45",
+                "event": "MLB : San Francisco Giants vs Philadelphia Phillies",
+                "channels": []
+            }
+        ],
+        "Basketball</span>": [
+            {
+                "time": "10:25",
+                "event": "UEFA Women's U18 Basketball Championship : Israel vs Montenegro",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NBA Utah Summer League : Philadelphia 76ers vs Oklahoma City Thunder",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "WNBA : Golden State Valkyries W vs Atlanta Dream",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "NBA Utah Summer League : Utah Jazz vs Memphis Grizzlies",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "WNBA : Dallas Wings vs Phoenix Mercury",
+                "channels": []
+            }
+        ],
+        "Cycling</span>": [
+            {
+                "time": "11:00",
+                "event": "Tour de France - Stage 3",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Giro d'Italia Women | Stage 2",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "UCI World Tour Stage 3 - Tour de France",
+                "channels": []
+            }
+        ],
+        "Horse Racing</span>": [
+            {
+                "time": "12:00",
+                "event": "Live racing from around the UK",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Live racing from Ayr and Roscommon",
                 "channels": []
             }
         ]
