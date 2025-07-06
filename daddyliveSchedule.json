@@ -448,7 +448,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "09:11",
+                "time": "09:46",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": []
             },
@@ -1090,12 +1090,12 @@
             },
             {
                 "time": "15:00",
-                "event": "FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19",
+                "event": "FIBA World Cup U19 3rd Place : New Zealand U19 vs Slovenia U19",
                 "channels": []
             },
             {
                 "time": "15:40",
-                "event": "Basketball: FIBA AmeriCup (W): for 7th place",
+                "event": "Women's AmeriCup : Dominican Republic W vs Mexico W",
                 "channels": []
             },
             {
@@ -1105,12 +1105,12 @@
             },
             {
                 "time": "18:00",
-                "event": "FIBA World Cup U19 - Final USA U19 vs Germany U19",
+                "event": "FIBA World Cup U19 Final : USA U19 vs Germany U19",
                 "channels": []
             },
             {
                 "time": "18:10",
-                "event": "Basketball: FIBA AmeriCup (W): for 5th place",
+                "event": "Women's AmeriCup : Colombia W vs Puerto Rico W",
                 "channels": []
             },
             {
@@ -1125,7 +1125,7 @@
             },
             {
                 "time": "21:40",
-                "event": "FIBA AmeriCup (W): for 3rd place",
+                "event": "FIBA AmeriCup (W) 3rd place : Argentina W vs Canada W",
                 "channels": []
             },
             {
@@ -1145,7 +1145,7 @@
             },
             {
                 "time": "00:10",
-                "event": "FIBA AmeriCup (W): FINALS",
+                "event": "FIBA AmeriCup (W) FINALS : Brazil W vs USA W",
                 "channels": []
             }
         ],
