@@ -270,7 +270,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "20:26",
+                "time": "23:34",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": []
             },
@@ -1279,6 +1279,168 @@
             {
                 "time": "00:00",
                 "event": "MLC Qualifier : Freedom vs Super Kings",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "23:34",
+                "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Fritz T. vs Khachanov K.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - WIMBLEDON : Norrie C. vs Alcaraz C.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Highlight Show",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WIMBLEDON</span>": [
+            {
+                "time": "12:30",
+                "event": "WTA - WIMBLEDON : Sabalenka A. vs Siegemund L.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Hijikata R./Pel D. vs Matos R./Melo M.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Nys H./Roger-Vasselin E.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "12:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E.",
+                "channels": []
+            }
+        ],
+        "Tennis MIXED DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "14:30",
+                "event": "MIXED DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Pavic M./Babos T.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "MIXED DOUBLES - WIMBLEDON : Salisbury J./Stefani L. vs Arevalo M./Zhang S.",
+                "channels": []
+            }
+        ],
+        "Tennis BOYS & GIRLS - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : CNo. 2 Court",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : No. 3 Court",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 5",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 6",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 7",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 8",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 9",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 10",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 11",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 12",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 14",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 15",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 16",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 17",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 18",
                 "channels": []
             }
         ],
