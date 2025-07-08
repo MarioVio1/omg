@@ -280,11 +280,6 @@
             },
             {
                 "time": "18:00",
-                "event": "FIFA Club World Cup 2025 : Fluminense vs Chelsea",
-                "channels": []
-            },
-            {
-                "time": "18:00",
                 "event": "UEFA - Champions League - Qualifiers : Vikingur Gota vs Lincoln Red Imps",
                 "channels": []
             },
@@ -398,7 +393,7 @@
         ],
         "Tennis ATP - WIMBLEDON</span>": [
             {
-                "time": "09:53",
+                "time": "18:23",
                 "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
                 "channels": []
             },
