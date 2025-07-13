@@ -2635,6 +2635,57 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Sinner J. vs Alcaraz C.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "12:00",
+                "event": "WTA DOUBLES - WIMBLEDON Hsieh S-W./Ostapenko J. vs Kudermetova V./Mertens E.",
+                "channels": []
+            }
+        ],
+        "Tennis BOYS & GIRLS - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : No. 1 Court",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : No. 3 Court",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 4",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 8",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 12",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "BOYS & GIRLS - WIMBLEDON : Court 18",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "BOYS & GIRLS - WIMBLEDON : Boys' Final: Ivanov I. vs Karki R.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
