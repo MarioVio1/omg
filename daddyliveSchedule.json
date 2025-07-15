@@ -234,6 +234,21 @@
                 "channels": []
             },
             {
+                "time": "18:00",
+                "event": "Friendly Match : Millwall vs Northampton",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Friendly Match : York City vs Sheffield Utd",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Paraguay - Cup : General Diaz vs Deportivo Santani",
+                "channels": []
+            },
+            {
                 "time": "18:30",
                 "event": "UEFA - Champions League - Qualifiers : Inter Escaldes vs FCSB",
                 "channels": []
@@ -265,7 +280,22 @@
             },
             {
                 "time": "19:00",
+                "event": "UEFA Champions League : Buducnost vs Noah",
+                "channels": []
+            },
+            {
+                "time": "19:00",
                 "event": "UEFA Champions League : Breidablik vs Egnatia Rrogozhin\u00eb",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "Ecuador - Serie B : Chacaritas vs Leones del Norte",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Paraguay - Cup : Atlantida CS vs Resistencia",
                 "channels": []
             },
             {
@@ -279,8 +309,18 @@
                 "channels": []
             },
             {
+                "time": "22:30",
+                "event": "Brazil - Brasileiro Superbet - Serie B : Cuiaba vs Amazonas",
+                "channels": []
+            },
+            {
                 "time": "23:00",
                 "event": "Colombia - Primera B : Orsomarso vs Bogot\u00e1",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Bolivia - Copa Division Profesional : Independiente Petrolero vs Universitario de Vinto",
                 "channels": []
             },
             {
