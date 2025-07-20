@@ -1,5 +1,37 @@
 {
     "Sunday 20th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "PPV EVENT - Freedom Stage | Tomorrowland Belgium",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "PPV EVENT - MainStage | Tomorrowland Belgium 2025 LIVE",
+                "channels": []
+            },
+            {
+                "time": "19:15",
+                "event": "2025 NASCAR Whelen Modified Tour at Monadnock Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 MARS Late Models at Quincy Raceway",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Late Models at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "TNA: Slammiversary 2025",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
