@@ -1992,6 +1992,96 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - KITZBUHEL</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - KITZBUHEL : Comesana F. vs Boyer T.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - KITZBUHEL : Schwaerzler J. J. vs Fucsovics M.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - KITZBUHEL : Rinderknech A. vs Bagnis F.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - KITZBUHEL : Gaston H. vs Gombos N.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - UMAG</span>": [
+            {
+                "time": "14:30",
+                "event": "ATP - UMAG : Tseng C. H. vs Zeppieri G.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - UMAG : Lajovic D. vs Atmane T.",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - UMAG : Guillen Meza A. vs Wawrinka S.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - WASHINGTON</span>": [
+            {
+                "time": "14:30",
+                "event": "ATP - WASHINGTON : TBD",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - PRAGUE</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - PRAGUE : Bouzkova M. vs Gao X.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - PRAGUE : Hontama M. vs Parks A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - PRAGUE : Bejlek S. vs Uchijima M.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - PRAGUE : Sharma A. vs Li A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - PRAGUE : Golubic V. vs Cocciaretto E.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - PRAGUE : Tomova V. vs Stefanini L.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - PRAGUE : Maleckova J. vs Sramkova R.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WASHINGTON</span>": [
+            {
+                "time": "14:30",
+                "event": "WTA - WASHINGTON : TBD",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "08:30",
