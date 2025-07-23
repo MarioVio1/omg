@@ -1,5 +1,32 @@
 {
     "Wednesday 23rd July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "Millbridge Sprints Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Silver Crown at Lucas Oil Indianapolis Raceway Park",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Baps",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Short Track Super Series at Le RPM Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "2025 FloRacing Night in America at Fairbury Speedway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -472,12 +499,12 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "ATP - WASHINGTON : Michelsen A. vs Evans D.",
                 "channels": []
             },
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "ATP - WASHINGTON : Muller A. vs Moutet C.",
                 "channels": []
             },
@@ -576,7 +603,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "09:12",
+                "time": "20:11",
                 "event": "WTA - WASHINGTON : Williams V. vs Stearns P.",
                 "channels": []
             },
