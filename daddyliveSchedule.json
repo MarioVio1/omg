@@ -1,5 +1,127 @@
 {
     "Saturday 26th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "13:00",
+                "event": "TNT IGNition: High Voltage 2025",
+                "channels": []
+            },
+            {
+                "time": "14:45",
+                "event": "2025 Dirt City Off-Road National",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "PPV MainStage | Tomorrowland 2025 LIVE",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "PPV Freedom Stage | Tomorrowland Belgium 2025 LIVE",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Memphis Wrestling, Episode 231 - Lights Out",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "TNT Extreme Wrestling: Summer Explosion 2025",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "PetrosyanMania Special Edition",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "2025 Figure 8 Night at Riverhead Raceway",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "World of Outlaws Late Models",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Hondo Classic at Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 IRA Sprints at Beaver Dam Raceway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Sharon Speedway Late Models",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC Indiana Sprint Week at Kokomo Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "American Sprint Car Series Benton",
+                "channels": []
+            },
+            {
+                "time": "22:55",
+                "event": "2025 IMCA Weekly Racing at 141 Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Southern Nationals Tazewell",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "Xtreme Outlaw Midgets",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "NARC 410 Sprints Santa Maria",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Knoxville Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "23:45",
+                "event": "Sportsman 100 Bowman Gray",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "XR Big Deal Ogilvie Raceway",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "LFA 213: Do Nascimento vs. Jimenez",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
@@ -947,12 +1069,12 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "10:11",
+                "time": "12:31",
                 "event": "ATP - WASHINGTON : Shelton B. vs Tiafoe F.",
                 "channels": []
             },
             {
-                "time": "10:11",
+                "time": "12:31",
                 "event": "ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T.",
                 "channels": []
             },
@@ -976,12 +1098,12 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "10:11",
+                "time": "12:31",
                 "event": "WTA - WASHINGTON : Kalinskaya A. vs Tauson C.",
                 "channels": []
             },
             {
-                "time": "10:11",
+                "time": "12:31",
                 "event": "WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S.",
                 "channels": []
             },
