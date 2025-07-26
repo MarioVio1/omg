@@ -2387,6 +2387,71 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - KITZBUHEL</span>": [
+            {
+                "time": "12:30",
+                "event": "ATP - KITZBUHEL : Bublik A. vs Cazaux A.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - UMAG</span>": [
+            {
+                "time": "18:00",
+                "event": "ATP - UMAG : Taberner C. vs Darderi L.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - WASHINGTON</span>": [
+            {
+                "time": "04:46",
+                "event": "ATP - WASHINGTON : Shelton B. vs Tiafoe F.",
+                "channels": []
+            },
+            {
+                "time": "04:46",
+                "event": "ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - WASHINGTON : De Minaur A. vs Moutet C.",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "ATP - WASHINGTON : TBD vs TBD",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - PRAGUE</span>": [
+            {
+                "time": "12:00",
+                "event": "WTA - PRAGUE : Noskova L. vs Bouzkova M.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WASHINGTON</span>": [
+            {
+                "time": "04:46",
+                "event": "WTA - WASHINGTON : Kalinskaya A. vs Tauson C.",
+                "channels": []
+            },
+            {
+                "time": "04:46",
+                "event": "WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - WASHINGTON : Fernandez L. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - WASHINGTON : Raducanu E. vs TBD",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
