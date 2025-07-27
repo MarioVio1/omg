@@ -2000,17 +2000,12 @@
         "Volleyball</span>": [
             {
                 "time": "13:45",
-                "event": "Women's Volleyball: Nations League match for 3rd place",
+                "event": "Nations League Women 3rd place : Poland W vs Japan W",
                 "channels": []
             },
             {
                 "time": "18:00",
-                "event": "Women's Volleyball: Nations League final match",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "FIVB Volleyball Women's Nations League Final: Teams TBA",
+                "event": "Nations League Women final match : Italy W vs Brazil W",
                 "channels": []
             }
         ],
