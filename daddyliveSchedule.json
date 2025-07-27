@@ -1,5 +1,62 @@
 {
     "Sunday 27th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "PPV - MainStage | Tomorrowland 2025 LIVE",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Porsche Sprint Challenge Lauguna Seca",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "2025 IRA Sprints at Angell Park Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Indiana Sprint Week at Lawrenceburg Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars Weedsport",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Carl Wegner Memorial at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:25",
+                "event": "Husets Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Anthony Pettis FC 18",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "EBI 24: The Bantamweights",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "16:00",
@@ -1113,6 +1170,164 @@
             {
                 "time": "15:30",
                 "event": "World Championship of Legends : India Champions vs. England Champions",
+                "channels": []
+            }
+        ],
+        "ATP - WASHINGTON</span>": [
+            {
+                "time": "21:00",
+                "event": "ATP - WASHINGTON : Davidovich Fokina A. vs De Minaur A.",
+                "channels": []
+            }
+        ],
+        "ATP - TORONTO</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - TORONTO : Walton A. vs Bonzi B.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - TORONTO : Arseneault N. vs Djere L.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - TORONTO : Ofner S. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - TORONTO : TBD vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - TORONTO : TBD vs Monfils G.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - TORONTO : TBD vs Tien L.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - TORONTO : TBD vs Munar J.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - TORONTO : TBD vs Fearnley J.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - TORONTO : TBD vs Bergs Z.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - TORONTO : TBD vs Etcheverry T.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - TORONTO : TBD vs Safiullin R.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - TORONTO : Kecmanovic M. vs Halys Q.",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - TORONTO : TBD vs Shang J.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - TORONTO : TBD vs Pospisil V.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - TORONTO : TBD vs Fonseca J.",
+                "channels": []
+            }
+        ],
+        "WTA - WASHINGTON</span>": [
+            {
+                "time": "18:30",
+                "event": "WTA - WASHINGTON : Fernandez L. vs Kalinskaya A.",
+                "channels": []
+            }
+        ],
+        "WTA - MONTREAL</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - MONTREAL : Cristian J. vs Stakusic M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - MONTREAL : Lamens S. vs Kudermetova P.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - MONTREAL : Volynets K. vs Ito A.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MONTREAL : Chirico L. vs Bouzas Maneiro J.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MONTREAL : Vondrousova M. vs Eala A.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - MONTREAL : Zhu L. vs Gracheva V.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MONTREAL : Birrell K. vs Mboko V.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MONTREAL : Bucsa C. vs Kudermetova V.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MONTREAL : Pera B. vs Osorio C.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - MONTREAL : Collins D. vs Tomova V.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MONTREAL : Andreescu B. vs Krejcikova B.",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - MONTREAL : Osuigwe W. vs Baptiste H.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - MONTREAL : Jacquemot E. vs Marino R.",
                 "channels": []
             }
         ],
