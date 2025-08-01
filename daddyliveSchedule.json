@@ -2466,13 +2466,18 @@
                 "channels": []
             },
             {
-                "time": "01:00",
-                "event": "Professional Fighters League: 2025 PFL World Tournament (Finals)",
+                "time": "22:00",
+                "event": "Professional Fighters League Prelims : 2025 PFL World Tournament (Finals)",
                 "channels": []
             },
             {
                 "time": "01:00",
                 "event": "ONE Fight Night 34 : Regian Eersel vs. George Jarvis",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Professional Fighters League Main Card : 2025 PFL World Tournament (Finals)",
                 "channels": []
             }
         ],
