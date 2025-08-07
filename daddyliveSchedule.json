@@ -1449,6 +1449,26 @@
                 "channels": []
             },
             {
+                "time": "16:00",
+                "event": "UEFA - Europa League - Qualifiers : Fredrikstad vs Midtjylland",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA - Conference League - Qualifiers : Milsami vs SS Virtus",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA - Conference League - Qualifiers : Rosenborg vs Hammarby IF",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Lithuania - A Lyga : \u017dalgiris vs S\u016bduva",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "UEFA Europa League : AEK Larnaca vs Legia Warszawa",
                 "channels": []
@@ -1466,6 +1486,11 @@
             {
                 "time": "16:30",
                 "event": "Jordan League : Al Ahli vs Al Buqa'a",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Lithuania - Cup : Hegelmann vs FA Siauliai",
                 "channels": []
             },
             {
@@ -1499,18 +1524,18 @@
                 "channels": []
             },
             {
+                "time": "17:00",
+                "event": "UEFA Conference League : Riga vs Beitar Jerusalem",
+                "channels": []
+            },
+            {
                 "time": "17:30",
                 "event": "UEFA Europa League : PAOK vs Wolfsberger AC",
                 "channels": []
             },
             {
-                "time": "16:00",
-                "event": "Lithuania - A Lyga : \u017dalgiris vs S\u016bduva",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "UEFA Conference League : Riga vs Beitar Jerusalem",
+                "time": "18:00",
+                "event": "Interclub friendly : Cadiz vs Al Ettifaq",
                 "channels": []
             },
             {
@@ -1576,6 +1601,21 @@
             {
                 "time": "18:00",
                 "event": "Argentina - Reserve League : Lan\u00fas Res. vs Talleres de C\u00f3rdoba Res.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA - Conference League - Qualifiers : Differdange 03 vs Levadia Tallinn",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA - Conference League - Qualifiers : Vikingur Gota vs Linfield",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "UEFA - Conference League - Qualifiers : Lausanne Sport vs Astana",
                 "channels": []
             },
             {
