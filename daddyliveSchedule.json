@@ -1486,8 +1486,38 @@
                 "channels": []
             },
             {
+                "time": "09:30",
+                "event": "Australia - NPL - NSW : Manly United vs Sydney Olympic",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Australia - NPL - South : Adelaide Croatia Raiders vs Campbelltown City",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Australia - NPL - NSW - North : Edgeworth Eagles vs Charlestown Azzurri",
+                "channels": []
+            },
+            {
                 "time": "10:30",
                 "event": "Korea Republic - K League 1 : Seoul vs Daegu",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 1 : Jeonbuk vs Anyang",
+                "channels": []
+            },
+            {
+                "time": "11:35",
+                "event": "China - Super League : Dalian Yingbo vs Chengdu Rongcheng",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "China - Super League : Henan FC vs Shenzen Xinpengcheng",
                 "channels": []
             },
             {
@@ -1513,6 +1543,21 @@
             {
                 "time": "15:00",
                 "event": "Belarus Premier League : Molodechno-2013 vs Slavia",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : Austria Klagenfurt vs Austria Viena II",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : Austria Lustenau vs WSC Hertha Wels",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : FAC Viena vs Kapfenberger",
                 "channels": []
             },
             {
@@ -1543,6 +1588,11 @@
             {
                 "time": "16:00",
                 "event": "Romanian Liga 2 : Steaua Bucharest vs Concordia Chiajna",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : St. Polten vs SW Bregenz",
                 "channels": []
             },
             {
@@ -1668,6 +1718,11 @@
             {
                 "time": "18:15",
                 "event": "Bulgaria - Parva Liga : Montana vs Botev Vratsa",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Austria - 2.League : First Vienna vs Austria Salzburg",
                 "channels": []
             },
             {
@@ -1829,6 +1884,11 @@
         "Cricket</span>": [
             {
                 "time": "07:30",
+                "event": "Namibia - T20 Richelieu Franchise : Eavion Eagles vs Pupkewitz Motors Wildcats",
+                "channels": []
+            },
+            {
+                "time": "07:30",
                 "event": "2nd Test | Day 2 : Zimbabwe vs New Zealand",
                 "channels": []
             },
@@ -1852,6 +1912,161 @@
             {
                 "time": "15:00",
                 "event": "ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Bonn (GER) : Joao Lucas Reis Silva vs Raphael Collignon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Francesco Maestrelli vs Dino Prizmic",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Bonn (GER) : Lautaro Midon vs Jurij Rodionov",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Bonn (GER) - Double : T.Ruehl/P.Zahraj vs G.Campana Lee/A.Matusevich",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Cordenons (ITA) : Cedrik-Marcel Stebe vs Zsombor Piros",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Bonn (GER) : Timofey Skatov vs Yanaki Milev",
+                "channels": []
+            },
+            {
+                "time": "12:40",
+                "event": "Challenger - Cordenons (ITA) : Santiago Rodriguez Taverna vs Dusan Lajovic",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Bonn (GER) - Double : N.Oberleitner/M.Veldheer vs V.V.Cornea/S.Martos Gornes",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UTR (M) - Cordoba (ARG) : Andres Gabriel Ciurletti vs Elias Grubert",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "UTR (M) - Cordoba (ARG) : Santiago Russo vs Tomas Martinez",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Camilo Ugo Carabelli vs Kei Nishikori",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Luca Nardi vs Thiago Agustin Tirante",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Cincinnati (USA) : Tristan Boyer vs Brandon Holt",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Challenger - Bonn (GER) : Vilius Gaubas vs Joel Josef Schwarzler",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "UTR (M) - Cordoba (ARG) : Ignacio Monzon vs Bautista Leguizamon",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Grodzisk Mazowiecki (POL) : Kamil Majchrzak vs Daniil Glinka",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Borna Coric vs Emilio Nava",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Marcos Giron vs Alexander Blockx",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Cincinnati (USA) : Miomir Kecmanovic vs Ethan Quinn",
+                "channels": []
+            },
+            {
+                "time": "17:10",
+                "event": "UTR (M) - Cordoba (ARG) : Juan Ignacio Zamora vs Santiago Pedro Franchini",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Adam Walton vs Mariano Navone",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Francisco Comesana vs Jaume Munar",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Hamad Medjedovic vs Aleksandar Kovacevic",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Hugo Dellien vs Reilly Opelka",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Cincinnati (USA) : Jenson Brooksby vs Alexandre Muller",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Daniel Altmaier vs Roberto Bautista Agut",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Martin Landaluce vs Patrick Kypson",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Cincinnati (USA) : Mattia Bellucci vs Damir Dzumhur",
+                "channels": []
+            },
+            {
+                "time": "19:40",
+                "event": "ATP - Cincinnati (USA) : Sebastian Ofner vs Valentin Royer",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - Cincinnati (USA) : Learner Tien vs Leandro Riedi",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "ATP - Cincinnati (USA) : Gael Monfils vs Nishesh Basavareddy",
                 "channels": []
             }
         ],
