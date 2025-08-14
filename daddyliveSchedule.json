@@ -1768,6 +1768,50 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Sinner J. vs Auger-Aliassime F.",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - CINCINNATI : Shelton B. vs Lehecka J.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - CINCINNATI : Rune H. vs Atmane T.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Bronzetti L. vs Gauff C.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - CINCINNATI : Paolini J. vs Krejcikova B.",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Seidel E. vs Gracheva V.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - CINCINNATI : Errani S./Paolini J. vs Stearns P./Vondrousova M.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - CINCINNATI : Kudermetova V. vs Linette M.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
