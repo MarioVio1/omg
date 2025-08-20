@@ -2,8 +2,48 @@
     "Wednesday 20th Aug 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
+                "time": "21:30",
+                "event": "All-Star Pavement Midgets at Indianapolis Raceway Park",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Fulton",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprint Cars",
+                "channels": []
+            },
+            {
                 "time": "22:30",
                 "event": "Thunder City Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Owosso Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Buena Vista Raceway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Stuart International Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Cottage Grove Speedway",
+                "channels": []
+            },
+            {
+                "time": "01:15",
+                "event": "2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway",
                 "channels": []
             }
         ],
