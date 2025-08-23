@@ -27,13 +27,18 @@
                 "channels": []
             },
             {
-                "time": "22:45",
-                "event": "USAC Sprint Car Smackdown at Kokomo Speedway",
+                "time": "22:30",
+                "event": "Attica Sprint Cars",
                 "channels": []
             },
             {
-                "time": "22:30",
-                "event": "Attica Sprint Cars",
+                "time": "23:00",
+                "event": "Albany-Saratoga Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "USAC Sprint Car Smackdown at Kokomo Speedway",
                 "channels": []
             },
             {
@@ -3654,8 +3659,18 @@
                 "channels": []
             },
             {
+                "time": "21:00",
+                "event": "Brazil - FPB - Divisao Especial A1 : Rio Claro vs Mogi das Cruzes",
+                "channels": []
+            },
+            {
                 "time": "21:40",
                 "event": "AmeriCup : USA vs Bahamas",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Brazil - FPB - Divisao Especial A1 : Sao Leopoldo MANDIC vs Osasco",
                 "channels": []
             },
             {
