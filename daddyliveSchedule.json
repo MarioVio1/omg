@@ -2636,63 +2636,6 @@
                 "channels": []
             }
         ],
-        "Ice Hockey</span>": [
-            {
-                "time": "17:00",
-                "event": "Champions League : Lulea vs EV Zug",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Champions League : Storhamar vs Eisbaren Berlin",
-                "channels": []
-            },
-            {
-                "time": "17:30",
-                "event": "Champions League : Ingolstadt vs Ilves Tampere",
-                "channels": []
-            },
-            {
-                "time": "18:20",
-                "event": "Champions League : KAC Klagenfurt vs Sparta Praga",
-                "channels": []
-            },
-            {
-                "time": "13:30",
-                "event": "Euro Hockey Tour, Women : Czech Republic vs. Finland",
-                "channels": []
-            },
-            {
-                "time": "15:00",
-                "event": "Club Friendlies : Farjestads BK vs. Malmo IF",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Champions Hockey League : Lulea Hockey vs. EV Zug",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Euro Hockey Tour, Women : Switzerland vs. Sweden",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Champions Hockey League : Storhamar Hockey vs. Eisbaren Berlin",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Club Friendly : Slovan Bratislava vs. Vienna Capitals",
-                "channels": []
-            },
-            {
-                "time": "18:15",
-                "event": "Champions Hockey League : KAC Klagenfurt vs. Sparta Prague",
-                "channels": []
-            }
-        ],
         "Futsal</span>": [
             {
                 "time": "16:00",
@@ -2724,6 +2667,48 @@
             {
                 "time": "22:00",
                 "event": "Horse Racing Saratoga Live",
+                "channels": []
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "13:30",
+                "event": "Euro Hockey Tour, Women : Czech Republic vs. Finland",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Club Friendlies : Farjestads BK vs. Malmo IF",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions Hockey League : Lulea Hockey vs. EV Zug",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Euro Hockey Tour, Women : Switzerland vs. Sweden",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions Hockey League : Storhamar Hockey vs. Eisbaren Berlin",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Club Friendly : Slovan Bratislava vs. Vienna Capitals",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Champions League : Ingolstadt vs Ilves Tampere",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Champions Hockey League : KAC Klagenfurt vs. Sparta Prague",
                 "channels": []
             }
         ],
