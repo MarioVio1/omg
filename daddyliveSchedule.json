@@ -2530,6 +2530,98 @@
                 "channels": []
             }
         ],
+        "Badminton</span>": [
+            {
+                "time": "08:20",
+                "event": "World Cup 2025 : Kodai Naraoka vs Kean Yew Loh",
+                "channels": []
+            },
+            {
+                "time": "08:20",
+                "event": "World Cup 2025 (F) : Putri Kusuma Wardani vs Tomoka Miyazaki",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "World Cup 2025 : Cheuk Yiu Lee vs Jonatan Christie",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "World Cup 2025 (F) : Se Young An vs Michelle Li",
+                "channels": []
+            },
+            {
+                "time": "08:50",
+                "event": "World Cup 2025 (F) : Pusarla Venkata Sindhu vs Zhiyi Wang",
+                "channels": []
+            },
+            {
+                "time": "08:50",
+                "event": "World Cup 2025 : Yuqi Shi vs Christo Popov",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "World Cup 2025 (F) : Fang Jie Gao vs Yue Han",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "World Cup 2025 : Hyeok Jin Jeon vs Victor Lai",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "World Cup 2025 - Double Mixt : Chun Man Tang/Ying Suet Tse vs D.Kapila/T.Crasto",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "World Cup 2025 (F) : Supanida Katethong vs Akane Yamaguchi",
+                "channels": []
+            },
+            {
+                "time": "09:20",
+                "event": "World Cup 2025 (F) : Gregoria Mariska Tunjung vs Yu Jin Sim",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "World Cup 2025 : Alex Lanier vs Hongyang Weng",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "World Cup 2025 - Double : J.Arif/R.K.Yap vs Aaron Chia/Wooi Yik Soh",
+                "channels": []
+            },
+            {
+                "time": "15:50",
+                "event": "World Cup 2025 (F) : Pornpawee Chochuwong vs Busanan Ongbamrungphan",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "World Cup 2025 : Toma Junior Popov vs Anders Antonsen",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "World Cup 2025 (F) : Yufei Chen vs Thuy Linh Nguyen",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "World Cup 2025 : Kenta Nishimoto vs Tien Chen Chou",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "World Cup 2025 (F) - Double : Sheng Shu Liu/Ning Tan vs C.H.Chang/C.T.Yang",
+                "channels": []
+            }
+        ],
         "Cycling</span>": [
             {
                 "time": "12:50",
@@ -2541,6 +2633,63 @@
             {
                 "time": "17:00",
                 "event": "Germany - Bundesliga : Erlangen vs Kiel",
+                "channels": []
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "17:00",
+                "event": "Champions League : Lulea vs EV Zug",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions League : Storhamar vs Eisbaren Berlin",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Champions League : Ingolstadt vs Ilves Tampere",
+                "channels": []
+            },
+            {
+                "time": "18:20",
+                "event": "Champions League : KAC Klagenfurt vs Sparta Praga",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Euro Hockey Tour, Women : Czech Republic vs. Finland",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Club Friendlies : Farjestads BK vs. Malmo IF",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions Hockey League : Lulea Hockey vs. EV Zug",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Euro Hockey Tour, Women : Switzerland vs. Sweden",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Champions Hockey League : Storhamar Hockey vs. Eisbaren Berlin",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Club Friendly : Slovan Bratislava vs. Vienna Capitals",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Champions Hockey League : KAC Klagenfurt vs. Sparta Prague",
                 "channels": []
             }
         ],
@@ -2575,43 +2724,6 @@
             {
                 "time": "22:00",
                 "event": "Horse Racing Saratoga Live",
-                "channels": []
-            }
-        ],
-        "Ice Hockey</span>": [
-            {
-                "time": "13:30",
-                "event": "Euro Hockey Tour, Women : Czech Republic vs. Finland",
-                "channels": []
-            },
-            {
-                "time": "15:00",
-                "event": "Club Friendlies : Farjestads BK vs. Malmo IF",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Champions Hockey League : Lulea Hockey vs. EV Zug",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Euro Hockey Tour, Women : Switzerland vs. Sweden",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Champions Hockey League : Storhamar Hockey vs. Eisbaren Berlin",
-                "channels": []
-            },
-            {
-                "time": "17:00",
-                "event": "Club Friendly : Slovan Bratislava vs. Vienna Capitals",
-                "channels": []
-            },
-            {
-                "time": "18:15",
-                "event": "Champions Hockey League : KAC Klagenfurt vs. Sparta Prague",
                 "channels": []
             }
         ],
