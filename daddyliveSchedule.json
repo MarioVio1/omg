@@ -3685,6 +3685,26 @@
                 "channels": []
             },
             {
+                "time": "11:30",
+                "event": "Germany - Bundesliga 2 : Simulcast",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Germany - Bundesliga 2 : Magdeburg vs Greuther F\u00fcrth",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Germany - Bundesliga 2 : Dynamo Dresden vs Schalke 04",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Germany - Bundesliga 2 : Kaiserslautern vs Darmstadt 98",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Denmark - Super Liga : Silkeborg vs S\u00f8nderjyskE",
                 "channels": []
@@ -3727,26 +3747,6 @@
             {
                 "time": "12:00",
                 "event": "Switzerland - Challenge League : Yverdon Sport vs Neuch\u00e2tel Xamax",
-                "channels": []
-            },
-            {
-                "time": "11:30",
-                "event": "Germany - Bundesliga 2 : Simulcast",
-                "channels": []
-            },
-            {
-                "time": "11:30",
-                "event": "Germany - Bundesliga 2 : Magdeburg vs Greuther F\u00fcrth",
-                "channels": []
-            },
-            {
-                "time": "11:30",
-                "event": "Germany - Bundesliga 2 : Dynamo Dresden vs Schalke 04",
-                "channels": []
-            },
-            {
-                "time": "11:30",
-                "event": "Germany - Bundesliga 2 : Kaiserslautern vs Darmstadt 98",
                 "channels": []
             },
             {
