@@ -5,6 +5,31 @@
                 "time": "17:40",
                 "event": "Boone Speedway",
                 "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Tuscarora 50 at Port Royal Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "WORLD 100 - Eldora Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Northern Nationals Gondik Law Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "House of Glory: Philadelphia 2025",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Battlefield Fight League : BFL 84",
+                "channels": []
             }
         ],
         "TV Shows</span>": [
@@ -340,6 +365,30 @@
             {
                 "time": "22:30",
                 "event": "Caribbean Premier League : Barbados Tridents vs Guyana Amazon Warriors",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "23:00",
+                "event": "WTA - US OPEN : Sabalenka A. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - US OPEN : Osaka N. vs Anisimova A.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Pegula J. vs Li A.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "ATP DOUBLES - US OPEN : Krejcikova B. vs Townsend T.",
                 "channels": []
             }
         ],
