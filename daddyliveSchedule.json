@@ -1,5 +1,32 @@
 {
     "Sunday 07th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "Top Tier Boxing : Welland vs. Herrera: Ambition",
+                "channels": []
+            },
+            {
+                "time": "17:40",
+                "event": "Championship Night at South Boston Speedway",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "2025 Season Finale at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Wild Thing Kart Series Stafford",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Fall Clash at Action Track",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "14:00",
@@ -579,7 +606,7 @@
                 "channels": []
             },
             {
-                "time": "09:01",
+                "time": "17:32",
                 "event": "3:30 Argentina - Primera Nacional : Chaco For Ever vs Chacarita Juniors",
                 "channels": []
             },
