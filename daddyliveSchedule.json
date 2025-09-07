@@ -3212,7 +3212,7 @@
                 "channels": []
             },
             {
-                "time": "02:48",
+                "time": "03:00",
                 "event": "3:30 Argentina - Primera Nacional : Chaco For Ever vs Chacarita Juniors",
                 "channels": []
             },
@@ -3303,6 +3303,13 @@
             {
                 "time": "16:00",
                 "event": "College Field Hockey : Northwestern vs Boston College",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "18:00",
+                "event": "ATP - US OPEN : Sinner J. vs Alcaraz C.",
                 "channels": []
             }
         ],
