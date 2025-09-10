@@ -326,6 +326,60 @@
                 "channels": []
             }
         ],
+        "Tennis WTA - GUADALAJARA</span>": [
+            {
+                "time": "20:00",
+                "event": "WTA - GUADALAJARA : Vidmanova D. vs Bartunkova N.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - GUADALAJARA : Stephens S. vs Stefanini L.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - GUADALAJARA : Marino R. vs Maria T.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - GUADALAJARA : Mertens E. vs Jacquemot E.",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - GUADALAJARA : Jimenez Kasintseva V. vs Kudermetova V.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - SAO PAOLO</span>": [
+            {
+                "time": "18:00",
+                "event": "WTA - SAO PAOLO : Jones F. vs Osuigwe W.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - SAO PAOLO : Rodriguez V. vs Rakotomanga Rajaonah T.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - SAO PAOLO : Tjen J. vs Okalova M.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - SAO PAOLO : Leme Da Silva N. V. vs Sierra S.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "WTA - SAO PAOLO : Riera J. vs Eala A.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "16:00",
