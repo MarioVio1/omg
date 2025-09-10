@@ -1007,6 +1007,16 @@
                 "time": "00:00",
                 "event": "NASCAR Craftsman Truck Series UNOH 200",
                 "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Supercars 500 Practice 1",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Supercars 500 Practice 2",
+                "channels": []
             }
         ],
         "Boxing</span>": [
