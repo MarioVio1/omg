@@ -2014,6 +2014,30 @@
                 "channels": []
             }
         ],
+        "Tennis WTA - GUADALAJARA</span>": [
+            {
+                "time": "22:00",
+                "event": "WTA - GUADALAJARA : Jacquemot E. vs Arango E.",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - GUADALAJARA : Jovic I. vs Frech or Bartunkova",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - SAO PAOLO</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA - SAO PAOLO : Tjen J. vs Jones F.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - SAO PAOLO : Zarazua R. vs Rakotomanga Rajaonah T.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "04:00",
