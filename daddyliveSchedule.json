@@ -3173,6 +3173,38 @@
                 "channels": []
             }
         ],
+        "Tennis WTA - SEOUL</span>": [
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Krueger A. vs Lys E.",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Joint M. vs Fruhvirtova L.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Ponchet J. vs Seidel E.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Siniakova K. vs Park S.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - SEOUL : Siegemund L. vs Kenin S.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - SEOUL : Boisson L. vs Ku Y.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "05:00",
