@@ -1502,6 +1502,144 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - CHENGDU</span>": [
+            {
+                "time": "05:00",
+                "event": "ATP - CHENGDU : Misolic F. vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - CHENGDU : Sonego L. vs Cerundolo J. M.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - CHENGDU : Thompson J. vs Tabilo A.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - CHENGDU : Daniel T. vs Wong C.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - CHENGDU : Atmane T. vs Prizmic D.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - CHENGDU : McDonald M. vs Van De Zandschulp B.",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - CHENGDU : Basilashvili N. vs Baez S.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - CHENGDU : Shevchenko A. vs Monfils G.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HANGZHOU</span>": [
+            {
+                "time": "05:30",
+                "event": "ATP - HANGZHOU : Dzumhur D. vs Etcheverry T. M.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "ATP - HANGZHOU : Cazaux A. vs Arnaldi M.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "ATP - HANGZHOU : Hijikata R. vs Ugo Carabelli C.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HANGZHOU : Berrettini M. vs Svrcina D.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HANGZHOU : Kovacevic A. vs Royer V.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HANGZHOU : Zeppieri G. vs Sun F.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - HANGZHOU : Basavareddy N. vs Cilic M.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - HANGZHOU : Vukic A. vs Goffin D.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - HANGZHOU : Walton A. vs Korda S.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - HANGZHOU : Bu Y. vs Zhang Z.",
+                "channels": []
+            }
+        ],
+        "Tennis BJK CUP</span>": [
+            {
+                "time": "02:00",
+                "event": "BJK CUP : Kazakhstan vs USA",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "BJK CUP : Japan vs Great Britain",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - SEOUL</span>": [
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Boisson L. vs Alexandrova E.",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - SEOUL : Shnaider D. vs Lamens S.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Swiatek 1. vs Cirstea S.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - SEOUL : Haddad Maia B. vs Seidel E.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - SEOUL : Siniakova K. vs Kasatkina D.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - SEOUL : Krejcikova B. vs Raducanu E",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "04:30",
