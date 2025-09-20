@@ -2940,6 +2940,111 @@
                 "channels": []
             }
         ],
+        "Tennis LAVER CUP</span>": [
+            {
+                "time": "20:00",
+                "event": "LAVER CUP : Ruud C. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "LAVER CUP : Mensik J. vs Michelsen A.",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "LAVER CUP : Cobolli F. vs Fonseca J.",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "LAVER CUP : Alcaraz C./Mensik J. vs Fritz T./Michelsen A.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - CHENGDU</span>": [
+            {
+                "time": "05:00",
+                "event": "ATP - CHENGDU : Griekspoor T. vs Daniel T.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - CHENGDU : Musetti L. Prizmic D.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - CHENGDU : Shevchenko A. vs Mpetshi Perricard G.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HANGZHOU</span>": [
+            {
+                "time": "03:30",
+                "event": "ATP - HANGZHOU : Basavareddy N. vs Medvedev D.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "ATP - HANGZHOU : Wu Y. vs Korda S.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HANGZHOU : Rublev A. vs Royer V.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - HANGZHOU : Vukic A. vs Bublik A.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - HANGZHOU : Svrcina D. vs Zhang Z.",
+                "channels": []
+            }
+        ],
+        "Tennis BJK CUP</span>": [
+            {
+                "time": "09:00",
+                "event": "BJK CUP : USA vs Great Britain",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - SEOUL</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - SEOUL : Swiatek I. vs Krejcikova B.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - SEOUL : Tauson C. vs Joint M.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - SEOUL : Seidel E. vs Alexandrova E.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - SEOUL : Lamens S. vs Siniakova K.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - SEOUL : Swiatek or Krejcikova vs Joint or Tauson",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - SEOUL : Seidel or Alexandrova vs Lamens or Siniakova",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "06:00",
