@@ -1,8 +1,35 @@
 {
     "Sunday 21st Sep 2025 - Schedule Time UK GMT": {
+        "Big Brother USA 2025 (Live)</span>": [
+            {
+                "time": "01:10",
+                "event": "Big Brother 27 Multi Cam",
+                "channels": []
+            },
+            {
+                "time": "01:10",
+                "event": "Big Brother 27 Cam 1",
+                "channels": []
+            },
+            {
+                "time": "01:10",
+                "event": "Big Brother 27 Cam 2",
+                "channels": []
+            },
+            {
+                "time": "01:10",
+                "event": "Big Brother 27 Cam 3",
+                "channels": []
+            },
+            {
+                "time": "01:10",
+                "event": "Big Brother 27 Cam 4",
+                "channels": []
+            }
+        ],
         "Big Brother Naija 2025 (DSTV CAM)</span>": [
             {
-                "time": "00:56",
+                "time": "01:10",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
