@@ -2,14 +2,14 @@
     "Monday 22nd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:33",
+                "time": "03:41",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:33",
+                "time": "03:41",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -633,14 +633,14 @@
     "Tuesday 23rd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:33",
+                "time": "03:41",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:33",
+                "time": "03:41",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1280,6 +1280,20 @@
             {
                 "time": "00:30",
                 "event": "Marsh One-Day Cup : South Australia vs Western Australia",
+                "channels": []
+            }
+        ],
+        "ATP - CHENGDU</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - CHENGDU : Musetti L. vs Tabilo A.",
+                "channels": []
+            }
+        ],
+        "ATP - HANGZHOU</span>": [
+            {
+                "time": "11:30",
+                "event": "ATP - HANGZHOU : Royer V. vs Bublik A.",
                 "channels": []
             }
         ],
