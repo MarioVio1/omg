@@ -2,14 +2,14 @@
     "Tuesday 23rd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:52",
+                "time": "00:58",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:52",
+                "time": "00:58",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1006,14 +1006,14 @@
     "Wednesday 24th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "00:52",
+                "time": "00:58",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "00:52",
+                "time": "00:58",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1858,7 +1858,7 @@
         "WWE</span>": [
             {
                 "time": "00:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW : Dynamite",
                 "channels": []
             }
         ],
@@ -1881,7 +1881,7 @@
                 "channels": []
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "21:00",
                 "event": "NPB Baseball : Fukuoka vs Tohoku",
@@ -2159,7 +2159,9 @@
                 "time": "15:30",
                 "event": "Liiga : KalPa vs Assat",
                 "channels": []
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "22:00",
                 "event": "NHL : Florida Panthers vs Carolina Hurricanes",
@@ -2213,7 +2215,9 @@
                 "time": "23:00",
                 "event": "S\u00e3o Paulo Women's Volleyball Championship : Osasco x Sesi Bauru",
                 "channels": []
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : South Carolina vs. Kentucky",
