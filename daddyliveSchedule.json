@@ -2,14 +2,14 @@
     "Tuesday 23rd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "22:07",
+                "time": "00:52",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "22:07",
+                "time": "00:52",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1006,14 +1006,14 @@
     "Wednesday 24th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "22:07",
+                "time": "00:52",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "22:07",
+                "time": "00:52",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1731,6 +1731,110 @@
             {
                 "time": "14:00",
                 "event": "Asia Cup | T20 | Super Four : Bangladesh vs India",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - CHENGDU</span>": [
+            {
+                "time": "02:00",
+                "event": "ATP - CHENGDU : Munar J. vs Berrettini M.",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "ATP - CHENGDU : Watanuki Y. vs Borges N.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - CHENGDU : Altmaier D. vs Shapovalov D.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - CHENGDU : Fucsovics M. vs Tiafoe F.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Dolehide C. vs Cirstea S.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Kessler M. vs Shi H.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Sevastova A. vs Birrell K.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Bronzetti L. vs Rakhimova K.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Krueger A. vs Sakkari M.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Siegemund L. vs McNally C.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Hon P. vs Golubic V.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Jacquemot E. vs Ruzic A.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Krejcikova B. vs Blinkova A.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Zhang R. vs Lys E.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Boulter K. vs Baptiste H.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Kudermetova P. vs Inglis M.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Volynets K. vs Stearns P.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Zakharova A. vs Zhang S.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - BEIJING : Bondar A. vs Andreescu B.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - BEIJING : Maria T. vs Bouzkova M.",
                 "channels": []
             }
         ],
