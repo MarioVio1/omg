@@ -2,14 +2,14 @@
     "Thursday 25th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:02",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:02",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1182,14 +1182,14 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:02",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "02:27",
+                "time": "03:02",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1361,7 +1361,7 @@
                 "channels": []
             }
         ],
-        "Soccer</span>": [
+        "Soccer - Ireland Republic</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Drogheda United vs Derry City",
@@ -1406,7 +1406,9 @@
                 "time": "18:45",
                 "event": "Ireland Republic - First Division : Kerry vs Treaty United",
                 "channels": []
-            },
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "11:30",
                 "event": "Azerbaijan - Premier Liqa : Mil-Mu\u011fan vs Zira",
