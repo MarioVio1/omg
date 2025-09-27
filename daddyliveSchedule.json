@@ -2,14 +2,14 @@
     "Friday 26th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "23:33",
+                "time": "00:59",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "23:33",
+                "time": "00:59",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -3098,6 +3098,132 @@
             {
                 "time": "00:30",
                 "event": "National League Women : South Australian Scorpions W vs Tasmanian Roar W",
+                "channels": []
+            }
+        ],
+        "ATP - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "ATP - BEIJING : Marozsan F. vs Muller A.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - BEIJING : De Minaur A. vs Rinderknech A.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - BEIJING : Sinner J. vs Atmane T.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - BEIJING : Cazaux A. vs Mensik J.",
+                "channels": []
+            }
+        ],
+        "ATP - TOKYO</span>": [
+            {
+                "time": "02:00",
+                "event": "ATP - TOKYO : Brooksby J. vs Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "ATP - TOKYO : Nakashima B. vs Fucsovics M.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - TOKYO : Quinn E. vs Rune H.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - TOKYO : Alcaraz C. vs Bergs Z",
+                "channels": []
+            }
+        ],
+        "WTA - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Bouzas Maneiro J. vs Yastremska D.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Osorio C vs Kalinskaya A.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Potapova A. vs Mboko V.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Ruse G. vs Navarro E.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Andreeva M. vs Zhu L.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Samsonova L. vs Boisson L.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Shnaider D. vs Joint M.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Tauson C. vs Sonmez Z",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BEIJING : Swiatek 1. vs Yuan Y.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Noskova L. vs Wang Xiy.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BEIJING : Seidel E. vs Kostyuk M.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - BEIJING : Tomljanovic A. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BEIJING : Kartal S. vs Kasatkina D.",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "WTA - BEIJING : Osaka N. vs Sasnovich A.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BEIJING : Arango E. vs Zheng Q.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BEIJING : Raducanu E. vs Bucsa C.",
                 "channels": []
             }
         ],
