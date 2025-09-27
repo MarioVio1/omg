@@ -1824,12 +1824,142 @@
             },
             {
                 "time": "16:00",
+                "event": "NCAAF : Stetson at Dayton",
+                "channels": []
+            },
+            {
+                "time": "16:00",
                 "event": "NCAAF : New Haven at Duquesne",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Delaware State at Sacred Heart",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Cornell at Yale",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Norfolk State at Wagner",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Dartmouth at Central Connecticut State",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Penn at Lehigh",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Georgetown at Columbia",
                 "channels": []
             },
             {
                 "time": "16:45",
                 "event": "NCAAF : Utah State at No. 18 Vanderbilt",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Eastern Michigan at Central Michigan",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Marist at Butler",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : LIU at Stonehill",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Holy Cross at Fordham",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : UAlbany at New Hampshire",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Towson at Bryant",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Morehead State at Presbyterian",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Georgia Southern at James Madison",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Miles at Morgan State",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Utah Tech at Austin Peay",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : South Dakota at North Dakota State",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Hampton at Elon",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Howard at Richmond",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : St. Thomas (MN) at San Diego",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Arkansas State at UL Monroe",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Alabama A&M at Bethune-Cookman",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Alabama State at Florida A&M",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Idaho State at Northern Colorado",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Mercyhurst at South Dakota State",
                 "channels": []
             },
             {
@@ -1854,6 +1984,11 @@
             },
             {
                 "time": "19:30",
+                "event": "NCAAF : No. 11 Indiana at Iowa",
+                "channels": []
+            },
+            {
+                "time": "19:30",
                 "event": "NCAAF : UCLA at Northwestern",
                 "channels": []
             },
@@ -1869,12 +2004,77 @@
             },
             {
                 "time": "19:30",
+                "event": "NCAAF : UConn at Buffalo",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : San Diego State at Northern Illinois",
+                "channels": []
+            },
+            {
+                "time": "19:30",
                 "event": "NCAAF : Rice at Navy",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Akron at Toledo",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Western Carolina at Campbell",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Princeton at Lafayette",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Furman at Samford",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Merrimack at Stony Brook",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : William & Mary at Villanova",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : North Carolina A&T at Maine",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Lindenwood at Miami (OH)",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : New Mexico State at New Mexico",
                 "channels": []
             },
             {
                 "time": "20:00",
                 "event": "NCAAF : Tulane at Tulsa",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Eastern Illinois at Western Illinois",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Eastern Washington at Montana State",
                 "channels": []
             },
             {
@@ -1888,18 +2088,128 @@
                 "channels": []
             },
             {
+                "time": "20:30",
+                "event": "NCAAF : Tennessee Tech at Tennessee State",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAAF : Northern Arizona at Portland State",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAAF : Texas Southern at Mississippi Valley State",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAAF : Mercer at East Tennessee State",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Middle Tennessee at Kennesaw State",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Liberty at Old Dominion",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : South Carolina State at Charleston Southern",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Saint Francis (PA) at Bucknell",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Brown at Harvard",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : Nicholls at Eastern Kentucky",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAAF : The Citadel at Chattanooga",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "NCAAF : Rhode Island at Western Michigan",
+                "channels": []
+            },
+            {
                 "time": "23:00",
                 "event": "NCAAF : Arizona at No. 14 Iowa State",
                 "channels": []
             },
             {
                 "time": "23:00",
-                "event": "NCAAF : Virginia Tech at NC State The",
+                "event": "NCAAF : Virginia Tech at NC State",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Southeast Missouri State at UT Martin",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Jacksonville State at Southern Miss",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Western Kentucky at Missouri State",
                 "channels": []
             },
             {
                 "time": "23:00",
                 "event": "NCAAF : Memphis at Florida Atlantic",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : UTRGV at Southeastern Louisiana",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Abilene Christian at UIW",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : NC Central at East Texas A&M",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Central Arkansas at Lamar",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Prairie View A&M at Grambling",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Alcorn State at Arkansas\u2013Pine Bluff",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Jackson State at Southern",
                 "channels": []
             },
             {
@@ -1935,6 +2245,36 @@
             {
                 "time": "23:45",
                 "event": "NCAAF : Kentucky at South Carolina",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : Marshall vs Louisiana",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : McNeese at Stephen F. Austin",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "NCAAF : West Georgia at Southern Utah",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAAF : Cal Poly at Sacramento State",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAAF : Louisiana Tech vs UTEP",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "NCAAF : Weber State at UC Davis",
                 "channels": []
             },
             {
