@@ -2,15 +2,32 @@
     "Sunday 28th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live</span>": [
             {
-                "time": "07:18",
+                "time": "20:36",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": []
             }
         ],
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "07:18",
+                "time": "20:36",
                 "event": "Big Brother Naija 2025",
+                "channels": []
+            }
+        ],
+        "PPV Events</span>": [
+            {
+                "time": "20:45",
+                "event": "Championship Night Riverhead",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota High Limit Racing at Path Valley Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Road to the Dome at Coles County Speedway",
                 "channels": []
             }
         ],
