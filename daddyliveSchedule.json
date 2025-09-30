@@ -2,7 +2,7 @@
     "Monday 29th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother Naija 2025 Live</span>": [
             {
-                "time": "22:02",
+                "time": "00:07",
                 "event": "Big Brother Naija 2025",
                 "channels": []
             }
@@ -1424,6 +1424,47 @@
             {
                 "time": "09:30",
                 "event": "ICC World Cup Women : India W vs Sri Lanka W",
+                "channels": []
+            }
+        ],
+        "ATP - BEIJING</span>": [
+            {
+                "time": "06:00",
+                "event": "ATP - BEIJING : Sinner J. vs De Minaur A.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - BEIJING : Tien L. vs Medvedev D.",
+                "channels": []
+            }
+        ],
+        "\u0391\u03a4\u03a1 - \u03a4\u039fKYO</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - TOKYO : Alcaraz C. vs Fritz T.",
+                "channels": []
+            }
+        ],
+        "WTA - BEIJING</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - BEIJING : Bencic B. vs Gauff C.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "WTA - BEIJING : Lys E. vs Kessler M.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BEIJING : Muchova K. vs Anisimova A.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - BEIJING : Paolini J. vs Bouzkova M.",
                 "channels": []
             }
         ],
