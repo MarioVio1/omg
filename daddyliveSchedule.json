@@ -964,6 +964,11 @@
                 "channels": []
             },
             {
+                "time": "15:30",
+                "event": "Finland iiga : SaiPa vs HPK",
+                "channels": []
+            },
+            {
                 "time": "16:00",
                 "event": "Slovakia, 1st Liga : HC 07 Detva vs. HK 36 Skalica",
                 "channels": []
@@ -1028,11 +1033,6 @@
             {
                 "time": "02:00",
                 "event": "NHL : Edmonton Oilers vs Seattle Kraken",
-                "channels": []
-            },
-            {
-                "time": "15:30",
-                "event": "Finland iiga : SaiPa vs HPK",
                 "channels": []
             }
         ],
