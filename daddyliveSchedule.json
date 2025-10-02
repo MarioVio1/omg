@@ -1,5 +1,27 @@
 {
     "Thursday 02nd Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "PDRA Brian Olson World Finals",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "OVW Live #1364",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "UFC BJJ 3: Musumeci vs. Carrasco",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Josh Barnett's Bloodsport XV - London",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",
