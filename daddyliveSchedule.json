@@ -1,5 +1,57 @@
 {
     "Friday 03rd Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 NAPA Champions Night at Stafford Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Pittsburgher at Pittsburgh's Pennsylvania Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 MARS FALS Frenzy at Fairbury Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC Tony Hulman Classic at Terre Haute Action Track",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Sprint Cars Williams Grove",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Xtreme Outlaw Midgets Jacksonville",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "IWS: Hell Awaits 2025",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Wrestling Revolver: Tales from the Ring 2025",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws late Models Humboldt",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Power Slap 15: BORDEAUX vs QUINONES 3",
+                "channels": []
+            }
+        ],
         "TV Show</span>": [
             {
                 "time": "14:00",
