@@ -2027,6 +2027,11 @@
             },
             {
                 "time": "10:00",
+                "event": "Ukrainian Premier League : Oleksandria vs Karpaty",
+                "channels": []
+            },
+            {
+                "time": "10:00",
                 "event": "Russia - Premier League : Akron vs Zenit",
                 "channels": []
             },
@@ -2268,6 +2273,11 @@
             {
                 "time": "12:30",
                 "event": "Italy - Serie C : Atalanta II vs Foggia",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Ukrainian Premier League : Obolon'-Brovar vs Veres Rivne",
                 "channels": []
             },
             {
@@ -2553,6 +2563,11 @@
             {
                 "time": "15:00",
                 "event": "Spain - Primera Divisi\u00f3n Femenina : Real Madrid vs Levante Las Planas",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Ukrainian Premier League : Polessya vs SK Poltava",
                 "channels": []
             },
             {
