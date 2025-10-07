@@ -1005,6 +1005,110 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Diallo G. vs Bergs Z.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Cash R./Tracy J. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Mpetshi Perricard G. vs Rune H.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - SHANGHAI : Andreozzi G./Guinard M. vs Cerundolo F./Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Munar J. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Vacherot V. vs Griekspoor T.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Arango E. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Kessler M. vs Cristian J.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Zakharova A. vs Kenin S.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Osaka N. vs Fernandez L.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Frech M. vs Kudermetova V.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Kostyuk M. vs Muchova K.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Sramkova R. vs Kalinskaya A.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Raducanu E. vs Li A.",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - WUHAN : Navarro E. vs Zhang S.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - WUHAN : Bencic B. vs Vekic D.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - WUHAN : Noskova L. vs Putintseva Y.",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - WUHAN : Cirstea S. vs Ostapenko J.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - WUHAN : Bouzkova M. vs Swiatek I.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WUHAN : Andreeva M. vs Siegemund L.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "12:30",
