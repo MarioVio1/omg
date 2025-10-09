@@ -1336,6 +1336,85 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "07:00",
+                "event": "ATP - SHANGHAI : Gonzalez S./Pel D. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - SHANGHAI : Rune H. vs Vacherot V.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Bergs Z. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Andreozzi G./Guinard M. vs Heliovaara H./Patten H.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Jovic 1. vs Siniakova K.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Alexandrova E. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Siegemund L. vs Frech M.",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - WUHAN : Sabalenka A. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - WUHAN : Paolini J. vs Tauson C.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - WUHAN : Noskova L. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - WUHAN : Andreeva M./Shnaider D. vs Siegemund L./Stollar F.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - WUHAN : Fernandez L./Routliffe E. vs Noskova L./Sramkova R.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - WUHAN : Errani S./Paolini J. vs Andreescu B./Yuan Y.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - WUHAN : Bencic 8. vs Swiatek I.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WUHAN : Zhang S. vs Gauff C.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "10:30",
@@ -1382,14 +1461,14 @@
                 "channels": []
             }
         ],
-        "MMA</span>": [
+        "MMA (EFC)</span>": [
             {
                 "time": "17:00",
                 "event": "Extreme Fighting Championship EFC 128 : Sekeletu vs Oosthuizen LIVE",
                 "channels": []
             }
         ],
-        "WWE</span>": [
+        "WWE (TNA)</span>": [
             {
                 "time": "00:00",
                 "event": "TNA iMPACT!",
@@ -1440,7 +1519,7 @@
                 "channels": []
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NCAAF)</span>": [
             {
                 "time": "23:00",
                 "event": "NCAAF : Louisiana Tech at Kennesaw State",
@@ -1465,14 +1544,16 @@
                 "time": "00:00",
                 "event": "High School Football : Westfield vs. Nimitz",
                 "channels": []
-            },
+            }
+        ],
+        "NFL</span>": [
             {
                 "time": "00:15",
                 "event": "NFL : New York Giants vs Philadelphia Eagles",
                 "channels": []
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "22:08",
                 "event": "MLB : Philadelphia Phillies vs Los Angeles Dodgers",
@@ -1529,7 +1610,9 @@
                 "time": "19:00",
                 "event": "Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne",
                 "channels": []
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "23:30",
                 "event": "NBA : New York Knicks vs Minnesota Timberwolves",
@@ -1668,6 +1751,16 @@
                 "channels": []
             },
             {
+                "time": "14:00",
+                "event": "KHL : Tractor Chelyabinsk vs Barys Astana",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "MHL : Dynamo Moscow U20 vs Spartak Moscow U20",
+                "channels": []
+            },
+            {
                 "time": "17:30",
                 "event": "DEL : Nurnberg Ice Tigers vs Red Bull Munchen",
                 "channels": []
@@ -1701,7 +1794,9 @@
                 "time": "17:00",
                 "event": "SHL : Malmo vs Frolunda",
                 "channels": []
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "23:00",
                 "event": "NHL : Chicago Blackhawks vs Boston Bruins",
@@ -1770,16 +1865,6 @@
             {
                 "time": "02:00",
                 "event": "NHL : Anaheim Ducks vs Seattle Kraken",
-                "channels": []
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Tractor Chelyabinsk vs Barys Astana",
-                "channels": []
-            },
-            {
-                "time": "16:30",
-                "event": "MHL : Dynamo Moscow U20 vs Spartak Moscow U20",
                 "channels": []
             }
         ],
