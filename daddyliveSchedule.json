@@ -1034,7 +1034,7 @@
                 "channels": []
             }
         ],
-        "Soccer</span>": [
+        "Ireland Republic</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - First Division : Dundalk vs Finn Harps",
@@ -1064,7 +1064,9 @@
                 "time": "19:00",
                 "event": "Ireland Republic - Premier Division : Shamrock Rovers vs Shelbourne",
                 "channels": []
-            },
+            }
+        ],
+        "LaLiga Promises U-12</span>": [
             {
                 "time": "13:00",
                 "event": "F\u00fatbol LaLiga Promises U12 : Athletic de Bilbao vs. Club Atl\u00e9tico Madrid",
@@ -1109,7 +1111,9 @@
                 "time": "17:00",
                 "event": "F\u00fatbol LaLiga Promises U12 : Independiente vs. Inter Miami",
                 "channels": []
-            },
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "12:00",
                 "event": "Europe U20 Elite League : Portugal U20 vs Germany U20",
@@ -1425,6 +1429,50 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Arevalo M./Pavic M. vs Goransson A./Michelsen A.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - SHANGHAI : Rinderknech A. vs Auger-Aliassime F.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Medvedev D. vs De Minaur A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Roger & Friends Celebrity Doubles",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Siniakova K. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - WUHAN : Sabalenka A. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - WUHAN : Siegemund L. vs Gauff C.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - WUHAN : Paolini J. vs Swiatek I.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
@@ -1481,7 +1529,7 @@
                 "channels": []
             }
         ],
-        "MMA</span>": [
+        "MMA (Fight)</span>": [
             {
                 "time": "12:30",
                 "event": "ONE Friday Fights 128",
@@ -1513,7 +1561,7 @@
                 "channels": []
             }
         ],
-        "WWE</span>": [
+        "WWE (SmackDown)</span>": [
             {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
@@ -1569,7 +1617,7 @@
                 "channels": []
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NCAAF)</span>": [
             {
                 "time": "23:00",
                 "event": "College Football : Cornell vs Harvard",
@@ -1613,10 +1661,10 @@
                 "channels": []
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "00:08",
-                "event": "MLB : Detroit Tigers vs Seattle Mariners",
+                "event": "MLB Finals : Detroit Tigers vs Seattle Mariners",
                 "channels": []
             }
         ],
@@ -1672,15 +1720,12 @@
                 "channels": []
             },
             {
-                "time": "00:00",
-                "event": "WNBA : Phoenix Mercury W vs Las Vegas Aces W",
-                "channels": []
-            },
-            {
                 "time": "01:00",
                 "event": "Women's Rapid League : Hoiho vs Queens",
                 "channels": []
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "12:00",
                 "event": "NBA : Phoenix Suns vs Brooklyn Nets",
@@ -1704,6 +1749,13 @@
             {
                 "time": "02:00",
                 "event": "NBA : Portland Trail Blazers vs Sacramento Kings",
+                "channels": []
+            }
+        ],
+        "WNBA</span>": [
+            {
+                "time": "00:00",
+                "event": "WNBA : Phoenix Mercury W vs Las Vegas Aces W",
                 "channels": []
             }
         ],
@@ -1848,16 +1900,6 @@
                 "channels": []
             },
             {
-                "time": "23:00",
-                "event": "College Hockey : Michigan vs Providence",
-                "channels": []
-            },
-            {
-                "time": "23:00",
-                "event": "College Hockey : Miami (Ohio) at RPI",
-                "channels": []
-            },
-            {
                 "time": "17:30",
                 "event": "DEL : Konferenz",
                 "channels": []
@@ -1935,6 +1977,18 @@
             {
                 "time": "17:00",
                 "event": "HockeyAllsvenskan : Kalmar vs IF Bjorkloven",
+                "channels": []
+            }
+        ],
+        "College Hockey</span>": [
+            {
+                "time": "23:00",
+                "event": "College Hockey : Michigan vs Providence",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "College Hockey : Miami (Ohio) at RPI",
                 "channels": []
             }
         ],
@@ -2017,7 +2071,9 @@
                 "time": "15:30",
                 "event": "Orlen Liga Women : Budowlani Lodz vs. Stal Mielec",
                 "channels": []
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : Ole Miss vs Mississippi State",
