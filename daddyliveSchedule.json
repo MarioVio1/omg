@@ -1,5 +1,22 @@
 {
     "Sunday 12th Oct 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "GCW: Fight Club 2025, Night 2",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "TNA: Bound for Glory 2025",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "14:00",
@@ -861,7 +878,7 @@
                 "channels": []
             },
             {
-                "time": "06:27",
+                "time": "16:30",
                 "event": "179:45 Chicago Marathon '25",
                 "channels": []
             }
