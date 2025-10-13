@@ -878,7 +878,7 @@
                 "channels": []
             },
             {
-                "time": "00:41",
+                "time": "00:59",
                 "event": "179:45 Chicago Marathon '25",
                 "channels": []
             }
@@ -1897,6 +1897,121 @@
             {
                 "time": "23:00",
                 "event": "National League Women : Queensland Fire W vs ACT Meteors W",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - ALMATY</span>": [
+            {
+                "time": "06:00",
+                "event": "ATP - ALMATY : Marozsan F. vs Nardi L.",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - ALMATY : Diallo G. vs Omarkhanov A.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - ALMATY : Blanchet U. vs Duckworth J.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - ALMATY : Tomic B. vs Moutet C.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - BRUSSELS</span>": [
+            {
+                "time": "13:30",
+                "event": "ATP - BRUSSELS : Giron M. vs Bellucci M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - BRUSSELS : Opelka R. vs Bonzi B.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - STOCKHOLM</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - STOCKHOLM : Kecmanovic M. vs Muller A.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - STOCKHOLM : Griekspoor T. vs Fearnley J.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - STOCKHOLM : Popyrin A. vs Korda S.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - STOCKHOLM : Borg L. vs Ofner S.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - OSAKA</span>": [
+            {
+                "time": "02:30",
+                "event": "WTA - OSAKA : Hibino N. vs Danilovic 0.",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "WTA - OSAKA : Osaka N. vs Sonobe W.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "WTA - OSAKA : Cirstea S. vs Uchijima M.",
+                "channels": []
+            },
+            {
+                "time": "05:30",
+                "event": "WTA - OSAKA : Lamens S. vs Arango E.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - OSAKA : Boulter K. vs Noskova L.",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - OSAKA : Sakkari M. vs Krueger A.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - NINGBO</span>": [
+            {
+                "time": "05:00",
+                "event": "WTA - NINGBO : Kenin S. vs Kessler M.",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - NINGBO : Bencic B. vs Linette M.",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - NINGBO : Putintseva Y. vs Starodubtseva Y.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - NINGBO : Sasnovich A. vs Sonmez Z.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NINGBO : Wang Xiy. vs Shnaider D.",
                 "channels": []
             }
         ],
