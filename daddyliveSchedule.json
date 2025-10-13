@@ -878,7 +878,7 @@
                 "channels": []
             },
             {
-                "time": "21:29",
+                "time": "00:41",
                 "event": "179:45 Chicago Marathon '25",
                 "channels": []
             }
@@ -1676,7 +1676,7 @@
                 "channels": []
             }
         ],
-        "Soccer</span>": [
+        "All Soccer Events</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Cork City vs Shelbourne",
@@ -1907,7 +1907,7 @@
                 "channels": []
             }
         ],
-        "WWE</span>": [
+        "WWE (RAW)</span>": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -1950,7 +1950,7 @@
                 "channels": []
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NFL)</span>": [
             {
                 "time": "17:00",
                 "event": "CFL : Montreal Alouettes vs Ottawa Redblacks",
@@ -1974,7 +1974,7 @@
                 "channels": []
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "21:00",
                 "event": "MLB : Seattle Mariners vs Toronto Blue Jays",
@@ -2021,7 +2021,9 @@
                 "time": "23:00",
                 "event": "Women's College Basketball : Boston College vs. Connecticut",
                 "channels": []
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "22:00",
                 "event": "NBA : Atlanta Hawks vs Miami Heat",
@@ -2104,7 +2106,9 @@
                 "time": "16:30",
                 "event": "KHL : SKA St. Petersburg vs Yekaterinburg",
                 "channels": []
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "16:30",
                 "event": "NHL : Colorado Avalanche vs Buffalo Sabres",
