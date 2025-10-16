@@ -1,5 +1,17 @@
 {
     "Thursday 16th Oct2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "2025 Dirt Track World Championship at Eldora Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "KKM Giveback Classic at Port City Raceway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1028,6 +1040,1562 @@
             {
                 "time": "01:00",
                 "event": "Women's College Volleyball : Michigan at Northwestern",
+                "channels": []
+            }
+        ]
+    },
+    "Friday 17th Oct2025 - Schedule Time UK GMT": {
+        "TV Shows</span>": [
+            {
+                "time": "19:00",
+                "event": "The Kelly Clarkson Show Season 7, Episode 15",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "General Hospital Season 63, Episode 27",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Barrett-Jackson Auction Scottsdale Fall 2025 Day 2 Season 4 Live",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "FanDuel Racing Live",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "UFC Live De Ridder vs. Allen",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Wizards Beyond Waverly Place Season 2, Episode 9",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Jeopardy! Season 42, Episode 30",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "American Made Season 3, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Fire Country Season 4, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "On Brand With Jimmy Fallon Season 1, Episode 6",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Celebrity Wheel of Fortune Season 6, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Penn & Teller: Fool Us Season 11, Episode 14",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "On Patrol: First Shift Season 4, Episode 25",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Her Life Is on the Line (2025) Premiere",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "The Braxtons Season 2, Episode 2",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Deadliest Catch Season 21, Episode 12",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Belle Collective Season 6, Episode 3",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "90 Day Fianc\u00e9: Happily Ever After? Season 9",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Vampirina: Teenage Vampire Season 1, Episode 11",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Sheriff Country Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Art21: Art in the Twenty-First Century Season 12, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Scariest House in America Season 2, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "The UnXplained Season 7, Episode 17",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "My Haunted Hometown Season 1, Episode 7",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "An Intimate Evening With Adam Pally New",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "The Couple Next Door Season 2, Episode 5",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Boston Blue Season 1, Episode 1 \u2022 Premiere",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "The Rainmaker Season 1, Episode 10",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Real Time With Bill Maher Season 23, Episode 30",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "The Proof Is Out There Season 5, Episode 13",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "World Chase Tag New",
+                "channels": []
+            }
+        ],
+        "Soccer</span>": [
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : Drogheda United vs Cork City",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : Galway United vs Bohemians",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : Shelbourne vs Sligo Rovers",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : St Patrick's vs Shamrock Rovers",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : Waterford United vs Derry City",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : Athlone Town vs Longford Town",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : Bray Wanderers vs Kerry",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : Cobh Ramblers vs Dundalk",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : Finn Harps vs UCD",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : Wexford vs Treaty United",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - A-League : Adelaide United vs Sydney FC",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Indonesia - Super League : Persita vs PSIM Yogyakarta",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Kazakhstan - Kazakhstan Premier League : Kyzyl-Zhar vs Kairat",
+                "channels": []
+            },
+            {
+                "time": "10:05",
+                "event": "Australia - A-League : Brisbane Roar vs Macarthur",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Azerbaijan - Premier Liqa : Shamakhi vs Kapaz",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Tanzania Premier League : Pamba vs Mashujaa",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "CAF Champions League : Police vs Al Hilal Omdurman",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Indonesia - Super League : PSBS Biak Numfor vs Persib",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Serbia Srpska Liga Beograd : FK Brodarac Beograd vs FK Budu\u0107nost Dobanovci",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Malaysia - Malaysia FA Cup : Penang FC vs Johor Darul Ta'zim",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Israel - Liga Leumit : Hapoel Ramat Gan vs Maccabi Herzliya",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Malaysia - Malaysia FA Cup : Kelantan United vs Sabah",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Croatia, 2. HNL : NK Sesvete vs. NK Hrvace",
+                "channels": []
+            },
+            {
+                "time": "13:15",
+                "event": "Iran Persian Gulf Pro League : Gol Gohar vs Chadormalu SC",
+                "channels": []
+            },
+            {
+                "time": "13:15",
+                "event": "Tanzania Premier League : Singida Big Stars vs Dodoma Jiji",
+                "channels": []
+            },
+            {
+                "time": "13:15",
+                "event": "Slovenian youth league : Rudar vs Maribor",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Belarus - Belarus Premier League : Arsenal vs Isloch",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Qatar - Qatar Stars League : Umm Salal vs Al Sadd",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "Romania - Liga II : CSMS Ia\u015fi vs CS Dinamo Bucure\u0219ti",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Slovenia - Prva Liga : Aluminij vs Mura",
+                "channels": []
+            },
+            {
+                "time": "14:40",
+                "event": "Kuwait - Premier League : Al Jahra vs Al Tadhamon",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Azerbaijan - Premier Liqa : Turan-T vs Qaraba\u011f",
+                "channels": []
+            },
+            {
+                "time": "15:05",
+                "event": "Saudi Arabia - Pro League : Al Feiha vs Al Ittihad",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Saudi Arabia - Pro League : Al Kholood vs Al Najma",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Iran Persian Gulf Pro League : Esteghlal Khuzestan vs Sepahan",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Czech Republic - 2. liga : Vyso\u010dina Jihlava vs \u010cesk\u00e9 Bud\u011bjovice",
+                "channels": []
+            },
+            {
+                "time": "15:45",
+                "event": "United Arab Emirates - UAE Pro League : Al Ittihad Kalba vs Shabab Al Ahli",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Poland - Ekstraklasa : Motor Lublin vs Katowice",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Croatia - 1. HNL : Vukovar vs Lokomotiva Zagreb",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Cyprus - First Division : Paphos vs Ethnikos Achna",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Poland - I Liga : Pogo\u0144 Grod. Mazowiecki vs Ruch Chorz\u00f3w",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 2. Futbalov\u00e1 Liga : MFk Dukla Banska Bystrica vs. FC Petrzalka",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Russia - Women's Football Championship : Lokomotiv Moskva vs Spartak Moskva",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Qatar - Qatar Stars League : Al Gharafa vs Qatar SC",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Qatar - Qatar Stars League : Al Duhail vs Al Sailiya",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Bundesliga 2 : Simulcast",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Bundesliga 2 : Fortuna D\u00fcsseldorf vs Eintracht Braunschweig",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Bundesliga 2 : Hannover 96 vs Schalke 04",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Frauen-Bundesliga : SGS Essen vs Hoffenheim",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Denmark - Super Liga : Silkeborg vs K\u00f8benhavn",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Africa - CAF Confederation Cup : Al-Ittihad vs Al Masry",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Botev Vratsa",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - 3. Liga : Erzgebirge Aue vs Waldhof Mannheim",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Netherlands - Eerste Divisie : RKC Waalwijk vs Willem II",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Norway - OBOS-ligaen : Lillestr\u00f8m vs Lyn",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Turkey - 1. Lig : \u00dcmran\u0131yespor vs Sar\u0131yer",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "South Africa - DStv Premiership : Richards Bay vs Orbit College",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Romania - Liga I : Farul Constan\u021ba vs SCM Arge\u015ful Pite\u015fti",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Switzerland - Challenge League : Rapperswil-Jona vs Stade Nyonnais",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Simulcast",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Grenoble Foot 38 vs Pau",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Troyes vs Bastia",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Rodez vs Reims",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Clermont vs Annecy",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "France - Ligue 2 : Boulogne vs Guingamp",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Roda JC vs Den Bosch",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : ADO Den Haag vs Dordrecht",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Ajax II vs PSV II",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Saudi Arabia - Pro League : Al-Ahli vs Al Shabab",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Switzerland - Challenge League : \u00c9toile Carouge vs Neuch\u00e2tel Xamax",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Switzerland - Challenge League : Stade Lausanne-Ouchy vs Aarau",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Spain - Segunda Division : FC Andorra vs Granada",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie B : Virtus Entella vs Sampdoria",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie C : Novara vs Union ArzignanoChiampo",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie C : Sassari Torres vs Forl\u00ec",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie C : Alcione vs Inter II",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Bundesliga : Union Berlin vs Borussia M'gladbach",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Poland - Ekstraklasa : Widzew \u0141\u00f3d\u017a vs Radomiak Radom",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Ta\u00e7a de Portugal : Chaves vs Benfica",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Austria 2. Liga : SKN St Polten vs. Austria Lustenau",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Portugal Taca de Portugal : GD Chaves vs. Benfica Lisbon",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "France - Ligue 1 : PSG vs Strasbourg",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Belgium - Pro League : Standard Li\u00e8ge vs Antwerp",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Dunfermline Athletic vs Raith Rovers",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Spain - La Liga : Real Oviedo vs Espanyol",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "England - Championship : Middlesbrough vs Ipswich Town",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "World - FIFA U-17 Women's World Cup : Morocco U17 vs Brazil U17",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "France - Premi\u00e8re Ligue : Le Havre vs Saint-\u00c9tienne",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Chile - Primera Division : Audax Italiano vs Uni\u00f3n La Calera",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "USL Championship : Lexington vs Sacramento Republic",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Argentina - Primera Divisi\u00f3n : Racing Club vs Aldosivi",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "United States - NCAA Men's Soccer : Michigan vs UCLA",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "United States - NCAA Men's Soccer : Clemson vs Duke",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Colombia - Primera A : Medell\u00edn vs Fortaleza CEIF",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Uruguay - Primera Division : Boston River vs Danubio",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Brazil - Serie B : Amazonas vs Novorizontino",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Chile - Primera Division : Deportes Iquique vs O'Higgins",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "Argentina - Primera Divisi\u00f3n : Argentinos Juniors vs Newell's Old Boys",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "Argentina - Primera Divisi\u00f3n : Lan\u00fas vs Godoy Cruz",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Liga MX Femenil : Puebla vs Tijuana",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Mexico - Liga de Expansi\u00f3n MX : Correcaminos UAT vs Dorados",
+                "channels": []
+            },
+            {
+                "time": "01:10",
+                "event": "Colombia - Primera A : Uni\u00f3n Magdalena vs Envigado",
+                "channels": []
+            },
+            {
+                "time": "01:30",
+                "event": "Colombia - Primera A : Boyac\u00e1 Chic\u00f3 vs Santa Fe",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Liga MX : Atl\u00e9tico San Luis vs Atlas",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Liga MX : Tigres UANL vs Necaxa",
+                "channels": []
+            }
+        ],
+        "Cricket</span>": [
+            {
+                "time": "09:30",
+                "event": "ICC World Cup Women : Sri Lanka W vs South Africa W",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Sheffield Shield : Tasmanian Tigers vs Western Australia",
+                "channels": []
+            }
+        ],
+        "Field Hockey</span>": [
+            {
+                "time": "20:00",
+                "event": "College Field Hockey : Northwestern at Rutgers",
+                "channels": []
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "06:00",
+                "event": "Tennis: ATP 250 Almaty & WTA 500 Ningbo & WTA 250 Osaka - 1/4 Final",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Tennis: ATP 250 Brussels & ATP 250 Stockholm & ATP 250 Almaty & WTA 500 Ningbo - 1/4 Final",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Tennis - Stockholm-ATP, Brussels-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Quarterfinals",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA 250 Osaka: 1/2 Final A",
+                "channels": []
+            }
+        ],
+        "Motorsport</span>": [
+            {
+                "time": "05:00",
+                "event": "MotoGP : Australian Grand Prix, Practice 1",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "WRC Rally Central European Rally: Stage 3",
+                "channels": []
+            },
+            {
+                "time": "08:25",
+                "event": "WorldSBK | Round 12 | Spain Free Practice 1",
+                "channels": []
+            },
+            {
+                "time": "09:25",
+                "event": "WRC Rally Central European Rally: Stage 5",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WorldWCR | Round 6 | Spain Superpole",
+                "channels": []
+            },
+            {
+                "time": "12:45",
+                "event": "WRC Rally Central European Rally: Stage 6",
+                "channels": []
+            },
+            {
+                "time": "12:50",
+                "event": "WorldSBK | Round 12 | Spain Free Practice 2",
+                "channels": []
+            },
+            {
+                "time": "15:20",
+                "event": "WRC Rally Central European Rally: Stage 7",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "NASCAR Craftsman Truck Series Love's RV Stop 225, Qualifying",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Formula 1 : MSC Cruises United States GP - Practice 1",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "NASCAR Craftsman Truck Series Love's RV Stop 225",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Formula 1 : MSC Cruises United States GP - Sprint Qualifying",
+                "channels": []
+            },
+            {
+                "time": "21:35",
+                "event": "Moto3 : Australian Grand Prix, Free Practice 2",
+                "channels": []
+            },
+            {
+                "time": "22:20",
+                "event": "Moto2 : Australian Grand Prix, Free Practice 2",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "MotoGP : Australian Grand Prix, Practice 2",
+                "channels": []
+            },
+            {
+                "time": "01:45",
+                "event": "Moto3 : Australian Grand Prix, Qualifying",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "Moto2 : Australian Grand Prix, Qualifying",
+                "channels": []
+            }
+        ],
+        "Boxing</span>": [
+            {
+                "time": "18:00",
+                "event": "Boxing : Kieron Conway vs George Liddard",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Boks: PZB Suzuki Boxing Night 37",
+                "channels": []
+            }
+        ],
+        "MMA</span>": [
+            {
+                "time": "12:30",
+                "event": "Kickboxing : ONE Friday Fights 129",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Ural Fighting Championship : Ural FC vs Ozon",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "FURY FC 110 : Christopher Ewert vs Elias Urbina",
+                "channels": []
+            }
+        ],
+        "WWE</span>": [
+            {
+                "time": "00:00",
+                "event": "WWE Friday Night SmackDown",
+                "channels": []
+            }
+        ],
+        "Table Tennis</span>": [
+            {
+                "time": "14:00",
+                "event": "Zadar: European Table Tennis Championships",
+                "channels": []
+            }
+        ],
+        "Golf</span>": [
+            {
+                "time": "05:00",
+                "event": "LPGA Tour BMW Ladies Championship",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "DP World Tour DP World India Championship",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Dominion Energy Charity Classic, First Round",
+                "channels": []
+            }
+        ],
+        "Badminton</span>": [
+            {
+                "time": "10:00",
+                "event": "Denmark Open BWF World Tour",
+                "channels": []
+            }
+        ],
+        "Snooker</span>": [
+            {
+                "time": "11:00",
+                "event": "IPA World Tour Reyes Cup Pool - Day 2",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "World Snooker - Snooker Scottish Open",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "World Snooker - Snooker Scottish Open",
+                "channels": []
+            }
+        ],
+        "Combat sports</span>": [
+            {
+                "time": "23:00",
+                "event": "Judo: Guadalajara Grand Prix Guadalajara Grand Prix. Day 1",
+                "channels": []
+            }
+        ],
+        "Am. Football</span>": [
+            {
+                "time": "00:00",
+                "event": "CFL : Winnipeg Blue Bombers vs Saskatchewan Roughriders",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "CFL : BC Lions vs Edmonton Eskimos",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAAF : Louisville vs 2 Miami (FL)",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : Nebraska vs Minnesota",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "High School Football : St. Rita vs St. Patrick",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAAF : San Jose State vs Utah State",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "NCAAF : North Carolina vs California",
+                "channels": []
+            }
+        ],
+        "Aussie rules</span>": [
+            {
+                "time": "08:00",
+                "event": "AFL Women : Port Adelaide W vs Hawthorn Hawks W",
+                "channels": []
+            },
+            {
+                "time": "10:15",
+                "event": "AFL Women : West Coast Eagles W vs Geelong Cats W",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "AFL Women : Melbourne Demons W vs Sydney Swans W",
+                "channels": []
+            }
+        ],
+        "Baseball</span>": [
+            {
+                "time": "22:08",
+                "event": "MLB : Toronto Blue Jays vs Seattle Mariners",
+                "channels": []
+            },
+            {
+                "time": "00:38",
+                "event": "MLB : Milwaukee Brewers vs Los Angeles Dodgers",
+                "channels": []
+            }
+        ],
+        "Basketball</span>": [
+            {
+                "time": "05:30",
+                "event": "Women's Rapid League : Queens vs Kahu",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "NBL : New Zealand Breakers vs Tasmania JackJumpers",
+                "channels": []
+            },
+            {
+                "time": "10:45",
+                "event": "Super League : Ironi Ness Ziona vs. Hapoel Beer Sheva",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "KLS W : Zkk Mega Basket Belgrade vs. Ras Beograd",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "S\u00fcper Ligi : Buyukcekmece Basketbol vs. Bahcesehir Koleji",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "KLS : KK Borac Zemun vs. Kk Hercegovac",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Poland PLK : GTK Gliwice vs. Slask Wroclaw",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ABA League : KK Bosna Royal Sarajevo vs. KK Buducnost Voli",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Euroleague : K Crvena zvezda Belgrade vs. Real Madrid",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Euroleague : Anadolu Efes SK vs. Panathinaikos BC",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Euroleague : AS Monaco vs. Valencia Basket",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Euroleague : ASVEL Lyon Villeurbanne vs. Virtus Bologna",
+                "channels": []
+            },
+            {
+                "time": "18:05",
+                "event": "Polish Basketball League : Basket Zielona Gora vs. Arka Gdynia",
+                "channels": []
+            },
+            {
+                "time": "18:15",
+                "event": "Croatia, Premijer Liga : KK Furnir Dubrava vs. KK Zabok",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ABA League : BC Vienna vs. KK Mega Basket Belgrade",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Euroleague : Paris Basketball vs. Hapoel Tel-Aviv",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Women's Rapid League : Pouakai vs Whai",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NBA : Philadelphia 76ers vs Minnesota Timberwolves",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NBA : Toronto Raptors vs Brooklyn Nets",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "NBA : New York Knicks vs Charlotte Hornets",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NBA : Miami Heat vs Memphis Grizzlies",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NBA : Oklahoma City Thunder vs Denver Nuggets",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "NBA : San Antonio Spurs vs Indiana Pacers",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "NBA : Golden State Warriors vs Los Angeles Clippers",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "NBA : Los Angeles Lakers vs Sacramento Kings",
+                "channels": []
+            }
+        ],
+        "Sailing / Boating</span>": [
+            {
+                "time": "10:00",
+                "event": "Surfing: Challenger Corona Saquarema Pro Rio De Janeiro - WSL",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Surfing: Challenger Corona Saquarema Pro Rio De Janeiro - WSL",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Surfing: Challenger Corona Saquarema Pro Rio De Janeiro - WSL",
+                "channels": []
+            }
+        ],
+        "Cycling</span>": [
+            {
+                "time": "05:15",
+                "event": "Tour of Guangxi | Stage 4 Men | Bama \u2013 Jinchengjiang (176.8km)",
+                "channels": []
+            },
+            {
+                "time": "11:45",
+                "event": "Tour of Holland | Stage 3 Men | Sittard \u2013 Watersley (154km)",
+                "channels": []
+            }
+        ],
+        "Equestrian</span>": [
+            {
+                "time": "11:00",
+                "event": "Global Champions League | Round 1 Rabat | Show Jumping",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Global Champions League | Round 2 Rabat | Show Jumping",
+                "channels": []
+            }
+        ],
+        "Darts</span>": [
+            {
+                "time": "11:00",
+                "event": "Darts - PDC Europe 1st round, German Darts Championship, Hildesheim",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Darts - PDC Europe 1st round, German Darts Championship, Hildesheim",
+                "channels": []
+            }
+        ],
+        "Futsal</span>": [
+            {
+                "time": "16:00",
+                "event": "International Friendly Games : Slovenia vs Croatia",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "LNF : Corinthians vs Carlos Barbosa",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Brazil Campeonato Brasileiro de Futsal : Cear\u00e1 vs EC Traipu",
+                "channels": []
+            }
+        ],
+        "Handball</span>": [
+            {
+                "time": "14:30",
+                "event": "Romania Liga Nationala : CSM Bucuresti vs. HC Sighisoara",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Superliga : SPR Chrobry Glogow vs. Kpr Ostrovia",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Starligue : Tremblay En France vs. PAUC Handball",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "France Ligue Magnus : Spartiates de Marseille vs Chamonix",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Spain Asobal : FC Barcelona HB vs CD Bidasoa Ir\u00fan",
+                "channels": []
+            }
+        ],
+        "Gymnastics</span>": [
+            {
+                "time": "16:00",
+                "event": "Figure Skating: ISU Grand Prix-France Women (Short Program)",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Figure Skating: ISU Grand Prix-France Pairs (Short Program)",
+                "channels": []
+            }
+        ],
+        "Horse Racing</span>": [
+            {
+                "time": "12:15",
+                "event": "Live racing from Haydock, Redcar and Fakenham",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Live racing from Uttoxeter and Newcastle",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "America's Day At the Races",
+                "channels": []
+            }
+        ],
+        "Ice Hockey</span>": [
+            {
+                "time": "15:30",
+                "event": "Finland Liiga - SaiPa vs JYP",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Slovakia Extraliga : HC Kosice vs. Slovan Bratislava",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia Extraliga : HK Nitra vs. HK Vlci Zilina",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia 1st Liga : Nove Zamky vs. HK Indian Ziar Nad Hronom",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Czechia Extraliga : Kometa Brno vs Mlada-Boleslav",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Czechia Extraliga : Rytiri Kladno vs Vitkovice",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Czechia Extraliga : Karlovy Vary vs Litvinov",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Czechia Extraliga : Dynamo Pardubice vs Bili Tygri Liberec",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Finland Liiga : HIFK vs KalPa",
+                "channels": []
+            },
+            {
+                "time": "17:15",
+                "event": "Austria ICE Hockey League : HK Olimpija vs Red Bull Salzburg",
+                "channels": []
+            },
+            {
+                "time": "17:45",
+                "event": "Finland Liiga : Bern vs Lausanne",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Women's College Hockey : Northeastern vs Quinnipiac",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "USA College : Boston University vs Michigan State Spartans",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "College Hockey : Boston College vs RPI",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "College Hockey: Maine vs Quinnipiac",
+                "channels": []
+            },
+            {
+                "time": "09:15",
+                "event": "KHL : Amur Khabarovsk vs Lada Togliatti",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "MHL : Stalnye Lisy U20 vs Belye Medvedi U20",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "KHL : Nizhny Novgorod vs CSKA Moscow",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "MHL : Sochi vs Avtomobilist Yekaterinburg",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : Vasteras vs AIK",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : Sodertalje vs Almtuna",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : Nybro Vikings IF vs. Kalmar HC",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : Mora vs Troja/Ljungby",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : IF Bjorkloven vs Modo",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs Oskarshamn",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Konferenz",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Straubing Tigers vs Iserlohn Roosters",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Frankfurt Lowen vs Red Bull M\u00fcnchen",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : ERC Ingolstadt vs Nurnberg Ice Tigers",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Eisbaren Berlin vs Grizzly Wolfsburg",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Bremerhaven vs Augsburger Panther",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Adler Mannheim vs Schwenninger",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NHL : Tampa Bay Lightning vs Detroit Red Wings",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NHL : Minnesota Wild vs Washington Capitals",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "NHL : Vancouver Canucks vs Chicago Blackhawks",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "NHL : San Jose Sharks vs Utah Mammoth",
+                "channels": []
+            }
+        ],
+        "Ice Skating</span>": [
+            {
+                "time": "16:00",
+                "event": "Grand Prix France | Women's Individual Short Program",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Figure Skating: French Grand Prix Pairs Short Program",
+                "channels": []
+            }
+        ],
+        "Netball</span>": [
+            {
+                "time": "08:00",
+                "event": "Constellation Cup : Australia W vs New Zealand W",
+                "channels": []
+            }
+        ],
+        "Rugby Union</span>": [
+            {
+                "time": "17:00",
+                "event": "Pro D2 : Angouleme vs Biarritz Olympique",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Pro D2 : Mont-de-Marsan vs Grenoble FC",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Pro D2 : Carcassonne vs Colomiers",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Pro D2 : Beziers vs Valence Romans",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Pro D2 : Aurillac vs US Dax",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Pro D2 : Provence Rugby vs Nevers",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Pro D2 : Agen vs Brive",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "United Rugby Championship : Edinburgh vs Treviso",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "United Rugby Championship : Dragons vs Cardiff Rugby",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "United Rugby Championship : Connacht vs Bulls",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Aviva Premiership Rugby : Gloucester vs Bristol",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Aviva Premiership Rugby : Newcastle Falcons vs Northampton Saints",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Bunnings NPC SF1 : Otago vs Bay of Plenty",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "TC '25 : CHE vs Black Lion",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Heartland Championship : Mid Canterbury vs Thames Valley",
+                "channels": []
+            }
+        ],
+        "Volleyball</span>": [
+            {
+                "time": "15:30",
+                "event": "Orlen Liga Women : LKS Lodz vs. KS Palac Bydgoszcz",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "SUPER LEAGUE (W) : Railwayman vs Red Star",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Sao Paulo Men's Volleyball Championship Final",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Women's College Volleyball : Alabama vs. Georgia",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Women's College Volleyball : UCLA vs Wisconsin",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Women's College Volleyball : Hawaii vs. Long Beach State",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "Women's College Volleyball : Penn State vs Washington",
+                "channels": []
+            }
+        ],
+        "Water Sports</span>": [
+            {
+                "time": "23:00",
+                "event": "Swimming WC: Westmont Day 1",
                 "channels": []
             }
         ]
